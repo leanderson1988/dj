@@ -915,8 +915,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2364.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1814.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT SD [Alter]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2120.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/iKO" group-title="Canais | Religiosos",Gospel Cartoon SD
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/47391.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1993.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD [Alter]
@@ -1259,8 +1257,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2172.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2173.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/aPN" group-title="Canais | Abertos",NBR SD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Estados Unidos",New York City [Camera]
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2418.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",NHK World SD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42896.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick FHD
@@ -1403,12 +1399,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42967.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/41608.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/XSK" group-title="Canais | Abertos",Rede Brasil SD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede CNT SD
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/47394.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel HD
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/47393.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Super FHD [H265]
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/35962.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Abertos",Rede Vida FHD [H265]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25421.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV! FHD
@@ -1709,12 +1699,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25350.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1690.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/UcW" group-title="Canais | Documentários",TruTV SD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1691.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida FHD [H265]
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25349.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Religiosos",TV Aparecida SD
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1698.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida SD [Alter]
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2108.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD [Alter]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45215.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil SD
@@ -1745,8 +1729,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/44570.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/44588.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/lde" group-title="Canais | Abertos",TV Escola SD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar HD
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/41365.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta FHD [H265]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25347.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta HD
@@ -1757,10 +1739,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2411.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1699.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/PZn" group-title="Canais | Abertos",TV Justica SD [Alter]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2138.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD [Alter]
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45216.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD [H265]
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25366.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno FHD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42937.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum FHD
@@ -1775,8 +1753,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2310.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1693.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum SD [Alter]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2129.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/ROP" group-title="Canais | Religiosos",TV Recomeço SD
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/47392.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Rá Tim Bum FHD [Alter]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45217.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos",TV Senado SD
