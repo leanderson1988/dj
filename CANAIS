@@ -457,8 +457,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1839.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1840.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV SD [Alter]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2109.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/AJf" group-title="Canais | Esportes",FlaTV FHD
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/33986.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2001.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD [Alter]
@@ -871,8 +869,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42933.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1600.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Globo",Globo TV Verdes Mares Fortaleza [H265]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42934.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",GloboEsporte.com HD
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/28653.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1942.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD [Alter]
@@ -1739,8 +1735,6 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2411.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1699.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/PZn" group-title="Canais | Abertos",TV Justica SD [Alter]
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2138.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno FHD
-http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42937.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum FHD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1960.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum FHD [H265]
