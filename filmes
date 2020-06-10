@@ -1,21 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,LULUZINHA
-https://s575.clipwatching.com/hls/zx5x52qqmf2jmzve42ed7qn72rx3e33w4cirrovfja4m27iwbql3qbv4keiq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Masha e o Urso 1
-https://s595.clipwatching.com/hls/zx5x5pavmf2jmzve42ed7t7t2fjdr42ojeczdb3rrz4r6a6w3v6ey3xthgia/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Masha e o Urso 2
-https://s590.clipwatching.com/hls/zx5x3hyvmf2jmzve42ed7d7zqg6obimgbmnp7oulcblxp6iw5rbeyn3krjba/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,PJ Masks 1
-https://s395.clipwatching.com/hls/zx5x6tqtmf2jmzve42ed7fxbqgefjmdycivqlyjqco25pcr6g7mgcpn7pldq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,PJ Masks 2
-https://s415.clipwatching.com/hls/zx5x5bismf2jmzve42ed7fho3yld4f7rptqmqbnyjqz2nz3f4tcy64lvsgda/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,PJ Masks 3
-https://s415.clipwatching.com/hls/zx5x5bismf2jmzve42ed7fho3yld4f7rptqmqbnyjqz2nz3f4tcy64lvsgda/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Teletubbies
-https://s6.pandafiles.com:183/d/7y33yl6i26kwoyapekf3kn6ygvkteiandv6coai3unb2el2nskegx2b6gby4iswdenzz6y73/video.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Adventure for a Flower
-https://s6.pandafiles.com:183/d/7y33gl6i26kwoyapekf2coehg67vzxisprckafijf6sojaed2ycpup634y7odbctdqsecjwq/video.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,LARVA
-https://s6.pandafiles.com:183/d/7y33el6i26kwoyapekf2i5ucn2zns53xrl5h4acgojpxhs2xptw5ewhxvhvziivc3tq3scwr/video.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,A casa do Mickey Mouse
-https://s6.pandafiles.com:183/d/7y33kl6i26kwoyapekf2szwxgu6fju5q2t3kxjjtjgzlifuowdmwl32n5fmiscnrm7r4g5ib/video.mp4
+#EXTINF:-1 type="video" group-title="Filmes",SONIC 2020
+https://www.googleapis.com/drive/v3/files/1bj-X1oaTobRQ3BRpfrYh1qfvBgDY2E_E?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+
+
