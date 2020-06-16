@@ -208,16 +208,17 @@ https://content.jwplatform.com/videos/xm2B2Ki5-Fj6mOqH7.mp4
 https://content.jwplatform.com/videos/TPuG0uGd-2TdoDbn0.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Quebra Nozes E Os Quatro Reinos 2018
 https://content.jwplatform.com/videos/EjMzY34B-bacgYk0M.mp4
-#EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 1 2003
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 1 2003
 https://www.googleapis.com/drive/v3/files/1zWmhSXpnXjWk0gxBlQxj-Z-0vmBJF0Lv?alt=media&key=AIzaSyAdgYJ8TuilEDB-wKBZycAnPwUqlSKrGZs
-#EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 2 2006
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 2 2006
 https://www.googleapis.com/drive/v3/files/14esNSavkHYBZPZnFO4dOUTZZCdS-aYLW?alt=media&key=AIzaSyAdgYJ8TuilEDB-wKBZycAnPwUqlSKrGZs
-#EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 3 2007
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 3 2007
 https://www.googleapis.com/drive/v3/files/1q9RFdxA0M3f4chjv55oERcbw5LWLiVH3?alt=media&key=AIzaSyAdgYJ8TuilEDB-wKBZycAnPwUqlSKrGZs
-#EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 4 2011
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 4 2011
 https://www.googleapis.com/drive/v3/files/1ChLYaf3p9_ssqV_ZwVR-UhLB0kh94wlZ?alt=media&key=AIzaSyAdgYJ8TuilEDB-wKBZycAnPwUqlSKrGZs
-#EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 5 2017
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 5 2017
 https://www.googleapis.com/drive/v3/files/1dKYStPw6xRyGAPh9cV4iI1_2H0-IZvIz?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,As Crônicas De Spiderwick 2008
 https://content.jwplatform.com/videos/8oHp9Yzd-nIPYi4xr.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Labirinto Do Fauno 2006
@@ -1379,12 +1380,20 @@ https://content.jwplatform.com/videos/ZinQT0FE-2VpNWUPp.mp4
 https://content.jwplatform.com/videos/vz6ucoYd-zJfxYVCz.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Jornada Da Vida 2018
 https://content.jwplatform.com/videos/nfbvZtK3-Fj6mOqH7.mp4
-#EXTINF:-1 type="video" group-title="TERROR" ,Seres Rastejantes 2006
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Seres Rastejantes 2006
 https://www.googleapis.com/drive/v3/files/10NMBO0uMSPf6ZZ3xQteRy3HeraGJmn35?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="TERROR" ,Eu Sei o que Vocês Fizeram no Verão Passado 1997
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Eu Sei o que Vocês Fizeram no Verão Passado 1997
 https://www.googleapis.com/drive/v3/files/1Tf4_ehPOxj9pzC93JJZcM6h74WNlFYei?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="TERROR" ,Eu Ainda Sei O Que Vocês Fizeram No Verão Passado 1998
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Eu Ainda Sei O Que Vocês Fizeram No Verão Passado 1998
 https://www.googleapis.com/drive/v3/files/1rK4G78y1CgJmxYKpf4R-wknE1_IXstUe?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,EFEITO BORBOLETA 1
+http://144.217.77.29/movies/1085.MKV
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,EFEITO BORBOLETA 2
+http://144.217.77.29/movies/1084.MKV
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,EFEITO BORBOLETA 3
+http://144.217.77.29/movies/1086.MKV
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Ameaça Profunda 2020
 https://content.jwplatform.com/videos/Ynz75Wi4-nJ2q6WN3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Natal Sangrento 2020
@@ -1547,13 +1556,14 @@ https://content.jwplatform.com/videos/HMXpMcq4-nJ2q6WN3.mp4
 https://content.jwplatform.com/videos/ToQIFRhJ-nJ2q6WN3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Freddy X Jason 2003
 https://content.jwplatform.com/videos/SKA1QUlo-nJ2q6WN3.mp4
-#EXTINF:-1 type="video" group-title="CLASSICO" ,Um Tira No Jardim Da Infancia 1990
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Tira No Jardim Da Infancia 1990
 https://www.googleapis.com/drive/v3/files/1os-2WnonRovORTCU0zqTOJwu7zsArGkM?alt=media&key=AIzaSyAdgYJ8TuilEDB-wKBZycAnPwUqlSKrGZs
-#EXTINF:-1 type="video" group-title="CLASSICO" ,Um Tira no Jardim de Infancia 2 2016
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Tira no Jardim de Infancia 2 2016
 https://www.googleapis.com/drive/v3/files/1Oy2OXLh1AF_l2AMhv8KneOoa8r-g-tdE?alt=media&key=AIzaSyAdgYJ8TuilEDB-wKBZycAnPwUqlSKrGZs
-#EXTINF:-1 type="video" group-title="CLASSICO" ,Um Príncipe em Nova York 1988
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Príncipe em Nova York 1988
 https://www.googleapis.com/drive/v3/files/1YcdX61XIVByFymKIlErjKOrT2PWWZlkU?alt=media&key=AIzaSyAdgYJ8TuilEDB-wKBZycAnPwUqlSKrGZs
-#EXTINF:-1 type="video" group-title="CLASSICO" ,Um Herói de Brinquedo 1996
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Herói de Brinquedo 1996
 https://www.googleapis.com/drive/v3/files/1lHvZoNvp-Pp2-US4mdaZ_dlKXOo-uPlE?alt=media&key=AIzaSyAdgYJ8TuilEDB-wKBZycAnPwUqlSKrGZs
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Tira Da Pesada 1 1984
 https://content.jwplatform.com/videos/7Hlnbi4R-hK28dEPb.mp4
