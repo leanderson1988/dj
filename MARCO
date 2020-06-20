@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Tina e Teo A Pedra Encantada 2019
+https://www.googleapis.com/drive/v3/files/1OlScxAUEuoJn30bfXEjU4SQIP3r-EjpS?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+#EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Marnie e os Amigos 2019
+https://www.googleapis.com/drive/v3/files/1D-ptV83Y8SOFT9mP4Bjo5pDmimTlECao?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Rei dos Ladroes 2018
 https://www.googleapis.com/drive/v3/files/1zqXA5xx03wa1gRLiFgRBZtUjLMU6rZYZ?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Café e Kareem 2020
