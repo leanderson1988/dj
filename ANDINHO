@@ -1757,17 +1757,770 @@ http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1910.m3u8
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1659.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/lgk" group-title="Canais | Abertos",TV Diario Fortaleza SD
 http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1658.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Educacao FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/44571.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Educacao HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/44570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Educacao SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/44588.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/lde" group-title="Canais | Abertos",TV Escola SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1695.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25347.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1694.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2411.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarulhos HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/48144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Justica SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1699.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/PZn" group-title="Canais | Abertos",TV Justica SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42937.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1960.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25405.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV Ra Tim Bum HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1692.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2310.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1693.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra Tim Bum SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2129.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Rá Tim Bum FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45217.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos",TV Senado SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1700.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos",TV Senado SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2128.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Univesp HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/44589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Univesp SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/44590.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1959.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45218.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25404.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29426.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1688.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2315.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1689.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2137.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1958.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45219.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25403.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29425.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1686.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8Xm" group-title="Canais | Variedades",VH1 MegaHits SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1685.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8Xm" group-title="Canais | Variedades",VH1 MegaHits SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2136.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",VH1 SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1687.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1922.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45220.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25402.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1683.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2314.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1684.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2135.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1957.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25401.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29424.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1681.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2313.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1682.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2134.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45221.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1956.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",Woohoo FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45222.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25364.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29397.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1679.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1680.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2133.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aVc" group-title="Canais | Infantis",ZooMoo SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1653.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aVc" group-title="Canais | Infantis",ZooMoo SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2111.m3u8
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6831.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6832.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6833.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6834.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6835.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6836.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6837.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6838.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6839.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6840.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6841.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6842.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6843.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6844.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6845.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6846.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6847.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6848.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6849.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6850.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6851.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S01 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6852.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6853.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6854.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6855.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6856.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6857.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6858.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6859.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6860.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6861.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6862.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6863.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6864.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6865.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6866.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6867.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6868.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6869.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6870.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6871.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6872.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6873.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S02 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6874.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6875.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6876.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6877.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6878.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6879.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6880.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6881.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6882.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6883.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6884.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6885.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6886.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6887.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6888.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6889.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S03 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6890.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6891.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6892.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6893.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6894.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6895.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6896.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6897.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6898.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6899.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6900.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6901.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6902.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6903.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6904.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6905.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6906.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6907.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6908.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6909.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6910.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6911.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S04 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6912.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6913.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6914.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6915.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6916.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6917.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6918.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6919.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6920.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6921.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6922.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6923.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6924.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6925.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6926.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6927.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6928.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6929.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6930.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6931.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6932.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6933.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S05 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6934.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6935.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6936.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6937.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6938.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6939.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6940.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6941.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6942.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6943.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6944.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6945.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6946.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6947.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6948.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6949.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6950.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6951.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6952.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6953.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6954.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6955.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S06 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6956.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6957.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6958.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6959.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6960.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6961.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6962.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6963.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6964.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6965.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6966.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6967.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6968.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6969.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6970.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6971.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6972.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6973.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6974.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6975.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6976.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6977.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6978.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S07 E23
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6979.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6980.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6981.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6982.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6983.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6984.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6985.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6986.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6987.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6988.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6989.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6990.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6991.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6992.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6993.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6994.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6995.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6996.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6997.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6998.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/6999.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7000.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7001.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S08 E23
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7002.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7003.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7004.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7005.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7006.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7007.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7008.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7009.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7010.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7011.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7012.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7013.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7014.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7015.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7016.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7017.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7018.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7019.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7020.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7021.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7022.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7023.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7024.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S09 E23
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7025.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7026.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7027.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7028.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7029.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7030.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7031.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7032.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7033.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7034.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7035.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7036.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7037.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7038.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7039.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7040.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7041.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7042.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7043.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7044.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7045.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7046.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7047.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S10 E23
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7048.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7049.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7050.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7051.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7052.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7053.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7054.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7055.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7056.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7057.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7058.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7059.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7060.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7061.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7062.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7063.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7064.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7065.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7066.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7067.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7068.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7069.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7070.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S11 E23
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7071.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7072.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7073.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7074.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7075.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7076.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7077.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7078.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7079.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7080.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7081.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7082.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7083.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7084.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7085.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7086.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7087.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7088.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7089.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7090.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7091.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7092.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7093.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S12 E23
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7094.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7095.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7096.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7097.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7098.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7099.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7100.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7101.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7102.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7103.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7104.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7105.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7106.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7107.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7108.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7109.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7110.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7111.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7112.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7113.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7114.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7115.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7116.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S13 E23
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7117.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7118.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7119.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7120.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7121.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7122.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7123.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7124.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7125.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7126.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7127.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7128.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23085.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23086.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23087.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23088.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23089.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23090.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23091.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23092.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/1d8c20522a4773c28d1a6315fe71afee.jpg" group-title="Series | Supernatural",Supernatural S14 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23093.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/583ef0f787f4fe159147ba890842f060.jpg" group-title="Series | Supernatural",Supernatural S15 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/31171.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/2b1b857693d834fe016a2197e929849b.jpg" group-title="Series | Supernatural",Supernatural S15 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/31172.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/8b019801f7cd54a2871fd385cf6e011e.jpg" group-title="Series | Supernatural",Supernatural S15 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/31173.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/d41c6b06f71c738ca1de1a92dfe87315.jpg" group-title="Series | Supernatural",Supernatural S15 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/31174.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/eb6485aef7aea7aecb44030d0c1d324a.jpg" group-title="Series | Supernatural",Supernatural S15 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/31347.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/09422782e0985d5aecae7d72b773c30a.jpg" group-title="Series | Supernatural",Supernatural S15 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/31708.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/c66a17e31c13c0983c6d829e9edcf9f7.jpg" group-title="Series | Supernatural",Supernatural S15 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/32098.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/f560f2ff31a71d91255d8d1cf1630563.jpg" group-title="Series | Supernatural",Supernatural S15 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33749.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/f95a213a725762e2a785c68829094330.jpg" group-title="Series | Supernatural",Supernatural S15 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/34647.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/812bcfd46ddbca4df9896c2e14e98eb2.jpg" group-title="Series | Supernatural",Supernatural S15 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/36427.mp4
+#EXTINF:-1 tvg-logo="http://csrv.me:80/images/d7f9cf7ac086cc6246a3ab98b1f68c81.jpg" group-title="Series | Supernatural",Supernatural S15 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/36428.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/5354862f4d2eef5e7404c5c56e6913a4.jpg" group-title="Series | Supernatural",Supernatural S15 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42850.mp4
+#EXTINF:-1 tvg-logo="http://csrv.tv:80/images/6bc55c999446aeb9fd723f1ab3d4976c.jpg" group-title="Series | Supernatural",Supernatural S15 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43749.mp4
 
 
 
