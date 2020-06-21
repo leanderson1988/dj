@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45236.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25400.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29484.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1906.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2402.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1907.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2215.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2024.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45237.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25399.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29483.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1904.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2401.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1905.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2214.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2023.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45238.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25472.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29482.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1902.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2400.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1903.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2213.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2022.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45239.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25471.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1900.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1901.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2113.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2021.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45240.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25470.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29481.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1898.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2399.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1899.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2212.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Te6" group-title="Canais | Infantis",BabyTV SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1897.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/Te6" group-title="Canais | Infantis",BabyTV SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2211.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band BA HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42973.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Bahia SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/30551.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Campinas HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42975.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band DF HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42974.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Goiania FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29487.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Goiania HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42972.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Internacional HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/36646.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Notícias",Band News FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45124.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band PR FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45235.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band PR HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42971.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45233.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band RJ HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42976.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/30552.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Sergipe HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/42977.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1953.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25398.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1895.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2398.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1896.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2020.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25469.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29423.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1893.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2210.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1894.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",BandNews SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/30553.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1952.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45126.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25467.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29421.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1889.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2396.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1890.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2121.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2018.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45127.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25466.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29420.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1886.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang HD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/47445.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1887.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2208.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1920.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/45128.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/25465.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265] [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/29402.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1884.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1885.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2115.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos",Canal do Boi SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/1655.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos",Canal do Boi SD [Alter]
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/2114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Canal Rural HD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/35976.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Canal Rural SD
+http://csrv.tv:80/live/ANDINHO13/ANDINHO2020/35975.m3u8
