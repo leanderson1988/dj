@@ -3625,6 +3625,17 @@ https://content.jwplatform.com/videos/22amiQmS-Dn1zJbUj.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="The Walking dead",1T-E6 The Walking dead
 https://content.jwplatform.com/videos/RmQOSB9k-Dn1zJbUj.mp4
 
+#EXTINF:-1 type="video" group-title="The Walking Dead" ,9T-EP1 The Walking Dead
+https://archive.org/serve/the.-walking.-dead.-s-09-e-05-720p/The.Walking.Dead.S09E01%20720p.mp4
+#EXTINF:-1 type="video" group-title="The Walking Dead" ,9T-EP2 The Walking Dead
+https://archive.org/download/the.-walking.-dead.-s-09-e-05-720p/The.Walking.Dead.S09E02%20720p.mp4
+#EXTINF:-1 type="video" group-title="The Walking Dead" ,9T-EP3 The Walking Dead
+https://archive.org/download/the.-walking.-dead.-s-09-e-05-720p/The.Walking.Dead.S09E03%20720p.mp4
+#EXTINF:-1 type="video" group-title="The Walking Dead" ,9T-EP4 The Walking Dead
+https://archive.org/download/the.-walking.-dead.-s-09-e-05-720p/The.Walking.Dead.S09E04%20720p.mp4
+#EXTINF:-1 type="video" group-title="The Walking Dead" ,9T-EP5 The Walking Dead
+https://archive.org/download/the.-walking.-dead.-s-09-e-05-720p/The.Walking.Dead.S09E05%20720p.mp4
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Sobrenatural",1T-E1 Sobrenatural
 https://content.jwplatform.com/videos/YMJCVGE7-EEpxgbJg.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Sobrenatural",1T-E2 Sobrenatural
