@@ -1,95 +1,151 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO Ninjago O Filme 2018
 https://www.googleapis.com/drive/v3/files/1WQ6lt9_zKW7kyCGrn-8Txe3YTZu2MFsL?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego DC Shazam Magia e Monstros 2020
 https://www.googleapis.com/drive/v3/files/1p2J13eEAapRTse1aRLicixcpAy3pbcTd?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO DC Batman Assuntos de Família 2019
 https://www.googleapis.com/drive/v3/files/1iFf8FcI941Fa9MQ8o2xwtz2GE-JFB_Mn?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO 2 Uma Aventura 2019
 https://www.googleapis.com/drive/v3/files/1-5LD3h3JLgjFAoozJVz-ZEf2R47mczfe?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO DC Comics Super Heróis Aquaman A Fúria de Atlântida 2018
 https://www.googleapis.com/drive/v3/files/1LoVrIqJsES-xgES_rpc-quFuMxo3Br82?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego DC Comics Super Herois O Flash 2018
 https://www.googleapis.com/drive/v3/files/1almKAnkTdzCQb9skrxZ-ojDTbFyUlbOi?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO Ninjago O Filme 2018
 https://www.googleapis.com/drive/v3/files/1WQ6lt9_zKW7kyCGrn-8Txe3YTZu2MFsL?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego dc Super Hero Girls Brain Drain 2017
 https://www.googleapis.com/drive/v3/files/1JdBchUpL2GVTm3Yb32ZjZ55onblFgglM?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego Liga da Justiça Combate Cósmico 2016
 https://www.googleapis.com/drive/v3/files/1W3Jclf1UkGB1gSq2ov8VRkRLGQoKSGSl?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/3exj2sC" group-title="LANCAMENTOS" ,A Dama EO Vagabundo 2020
 https://www.googleapis.com/drive/v3/files/1FQLIsPHujMmW6FwXOGqJHjZS3-1uVTK5?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3eEezo1" group-title="LANCAMENTOS" ,Café e Kareem 2020
+https://www.googleapis.com/drive/v3/files/18g8eH9OEdnGXRmAwWMWAh_zmyEXFohPz?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3fZ9eYK" group-title="LANCAMENTOS" ,Cidade Do Crime 2017
+https://www.googleapis.com/drive/v3/files/1uxLMvsVbPEFSkR6smmKKNajyuHqUhl3B?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/2BeAmnJ" group-title="LANCAMENTOS" ,Emma 2020
+https://www.googleapis.com/drive/v3/files/1fB8ibNeppJY7-7oSLbM0D2YxCVUUg7KK?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Bd8fFC" group-title="LANCAMENTOS" ,O Chamado Da Floresta 2020
+https://www.googleapis.com/drive/v3/files/1ROJ_X7IXnXYSfaE7T-FiH9xeQnsCgw5f?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Dragoes Equipe de Resgate Em Busca do Dragão Dourado 2020
 https://www.googleapis.com/drive/v3/files/1yiDK-oiDoWkm6_pBuBAPZQZjnhE_GduX?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Coracao de Dragao Vinganca 2020
 https://www.googleapis.com/drive/v3/files/1-oeijvZ4qyiJTC2RmPAqqJYvkAQ9iuBN?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Uma Prova de Fe 2 Voltando para Casa 2019
 https://www.googleapis.com/drive/v3/files/1p-x5BcPpOQLxgXEPBqfnOhCEvG5kkA1y?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,REI DOS LADROES 2018
 https://www.googleapis.com/drive/v3/files/1zqXA5xx03wa1gRLiFgRBZtUjLMU6rZYZ?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,O Homem Invisivel 2020
 https://ia601500.us.archive.org/4/items/o-homem-invisivel-2020/O%20Homem%20Invisivel%202020.mp4
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Paciente 11 2018 
 https://www.googleapis.com/drive/v3/files/1Ah8rFL1OhrU6eQvNB1hMoVRroZ8NQgEq?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS",SONIC 2020
 https://www.googleapis.com/drive/v3/files/1bj-X1oaTobRQ3BRpfrYh1qfvBgDY2E_E?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS",Troco Em Dobro 2020
 https://www.googleapis.com/drive/v3/files/1o2xGDAyn_T42-7BDx6L87WmM_k5rLXWP?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS",Resgate 2020
 https://www.googleapis.com/drive/v3/files/1CstiVK6G8AS9dk0xLsQ5bJGpzTekBt4u?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS",Bloodshot 2020
 https://www.googleapis.com/drive/v3/files/15b5QOOnf4xFnMttg0Q81I0w9eWeNI9Mn?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="CLASSICO" ,Um Tira No Jardim Da Infancia 1990
 https://www.googleapis.com/drive/v3/files/1os-2WnonRovORTCU0zqTOJwu7zsArGkM?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="CLASSICO" ,Um Tira no Jardim de Infancia 2 2016
 https://www.googleapis.com/drive/v3/files/1Oy2OXLh1AF_l2AMhv8KneOoa8r-g-tdE?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="CLASSICO" ,Um Príncipe em Nova York 1988
 https://www.googleapis.com/drive/v3/files/1YcdX61XIVByFymKIlErjKOrT2PWWZlkU?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="CLASSICO" ,Um Herói de Brinquedo 1996
 https://www.googleapis.com/drive/v3/files/1lHvZoNvp-Pp2-US4mdaZ_dlKXOo-uPlE?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="CLASSICO" ,O Rapto do Menino Dourado 1986
 https://www.googleapis.com/drive/v3/files/1e-ExXeoFyTptuviFFyezc0w3C6YnArWd?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="TERROR" ,Seres Rastejantes 2006
 https://www.googleapis.com/drive/v3/files/10NMBO0uMSPf6ZZ3xQteRy3HeraGJmn35?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="TERROR" ,Eu Sei o que Vocês Fizeram no Verão Passado 1997
 https://www.googleapis.com/drive/v3/files/1Tf4_ehPOxj9pzC93JJZcM6h74WNlFYei?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="TERROR" ,Eu Ainda Sei O Que Vocês Fizeram No Verão Passado 1998
 https://www.googleapis.com/drive/v3/files/1rK4G78y1CgJmxYKpf4R-wknE1_IXstUe?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 1 2003
 https://www.googleapis.com/drive/v3/files/1zWmhSXpnXjWk0gxBlQxj-Z-0vmBJF0Lv?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 2 2006
 https://www.googleapis.com/drive/v3/files/14esNSavkHYBZPZnFO4dOUTZZCdS-aYLW?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 3 2007
 https://www.googleapis.com/drive/v3/files/1q9RFdxA0M3f4chjv55oERcbw5LWLiVH3?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 4 2011
 https://www.googleapis.com/drive/v3/files/1ChLYaf3p9_ssqV_ZwVR-UhLB0kh94wlZ?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="AVENTURA" ,piratas do caribe 5 2017
 https://www.googleapis.com/drive/v3/files/1dKYStPw6xRyGAPh9cV4iI1_2H0-IZvIz?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="EPCO" ,Hércules no Mundo Subterrâneo 1994
 https://www.googleapis.com/drive/v3/files/12Qvco27kJoUQHSIHbiM1QNygYMeyNU7G?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="EPCO" ,Hércules e o Reino Perdido 1994
 https://www.googleapis.com/drive/v3/files/1EdxSsJIYEL9aF4k-ojub4b10wQgqsVYI?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="EPCO" ,Hércules e o Círculo de Fogo 1994
 https://www.googleapis.com/drive/v3/files/1ymuOIXciAbusKf0OhrYbIeeHmrF1D1bU?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="EPCO" ,Hércules e as Amazonas 1994
 https://www.googleapis.com/drive/v3/files/17_Ujjx2PMdPsIb91_njOUlsJ6Ved8bhV?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LUTAS" ,Ninja Assassino 2009
 https://www.googleapis.com/drive/v3/files/1om_WUEO_47_vn-QZs63-SwNeNjHMbT_p?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LUTAS" ,Ninja 2  A Vingança 2014
 https://www.googleapis.com/drive/v3/files/1iaj2hwljqEkCKKfMcjcCd9sktwOCWCJl?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Van Damme",CONTATO MORTAL
 https://ia601506.us.archive.org/23/items/o-legionario-1998/Contato%20Mortal.mp4
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Van Damme",O Legionário 1998
 https://ia601506.us.archive.org/23/items/o-legionario-1998/O%20Legion%C3%A1rio%201998.mp4
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 1
 https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%201%20%20720p.mp4
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 2
 https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%202%20%20720p.mp4
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 3
 https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%203%20%20720p.mp4
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 4
 https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%204%20%20720p.mp4
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 5
 https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%205%20%20%202011.mp4
 
