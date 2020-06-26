@@ -1,14 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO Ninjago O Filme 2018
+https://www.googleapis.com/drive/v3/files/1WQ6lt9_zKW7kyCGrn-8Txe3YTZu2MFsL?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego DC Shazam Magia e Monstros 2020
 https://www.googleapis.com/drive/v3/files/1p2J13eEAapRTse1aRLicixcpAy3pbcTd?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO DC Batman Assuntos de Família 2019
 https://www.googleapis.com/drive/v3/files/1iFf8FcI941Fa9MQ8o2xwtz2GE-JFB_Mn?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO 2 Uma Aventura 2019
+https://www.googleapis.com/drive/v3/files/1-5LD3h3JLgjFAoozJVz-ZEf2R47mczfe?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO DC Comics Super Heróis Aquaman A Fúria de Atlântida 2018
 https://www.googleapis.com/drive/v3/files/1LoVrIqJsES-xgES_rpc-quFuMxo3Br82?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego DC Comics Super Herois O Flash 2018
 https://www.googleapis.com/drive/v3/files/1almKAnkTdzCQb9skrxZ-ojDTbFyUlbOi?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO  DC Comics Super Herois O Flash 2018
+https://www.googleapis.com/drive/v3/files/1fWuLGuhthyzjqFOIPe5cLLnhwLwSe_59?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO Ninjago O Filme 2018
+https://www.googleapis.com/drive/v3/files/1WQ6lt9_zKW7kyCGrn-8Txe3YTZu2MFsL?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego dc Super Hero Girls Brain Drain 2017
 https://www.googleapis.com/drive/v3/files/1JdBchUpL2GVTm3Yb32ZjZ55onblFgglM?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego Liga da Justiça Combate Cósmico 2016
+https://www.googleapis.com/drive/v3/files/1W3Jclf1UkGB1gSq2ov8VRkRLGQoKSGSl?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Dragoes Equipe de Resgate Em Busca do Dragão Dourado 2020
 https://www.googleapis.com/drive/v3/files/1yiDK-oiDoWkm6_pBuBAPZQZjnhE_GduX?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Coracao de Dragao Vinganca 2020
