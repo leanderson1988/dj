@@ -82,6 +82,13 @@ https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 5
 https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%205%20%20%202011.mp4
 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Dr  Dolittle 1 1998
+https://archive.org/serve/o-professor-aloprado-1996/Dr%20%20Dolittle%201%201998.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,O Professor Aloprado 1 1996
+https://archive.org/download/o-professor-aloprado-1996/O%20Professor%20Aloprado%201996.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,O Professor Aloprado 2 2000
+https://archive.org/download/o-professor-aloprado-1996/O%20Professor%20Aloprado%202%202000.mp4
+
 #EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP1 Sobrenatural
 https://www.googleapis.com/drive/v3/files/15gFbHWaS7vkX998G2iTRcUQXR-pkhiGx?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP2 Sobrenatural
@@ -102,7 +109,7 @@ https://www.googleapis.com/drive/v3/files/1NXoeLHomq0TvZLF1hiveMXkhB1mh1tR5?alt=
 https://www.googleapis.com/drive/v3/files/1JTSW1z7vkyJjIbXNigobyY5r_6GoHGei?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP10 Sobrenatural
 https://www.googleapis.com/drive/v3/files/13TF_ea_AWeSSx0BRsqqP7fhudJd4Xc7c?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-© 2020 GitHub, Inc.
+
 #EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP1 Sobrenatural
 https://archive.org/serve/sobrenatural.-s-14-e-03/Supernatural.S14E01.mp4
 #EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP2 Sobrenatural
