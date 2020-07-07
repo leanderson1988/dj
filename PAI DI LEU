@@ -31,6 +31,7 @@ http://csrv.tv:80/live/Leu22/Leo2020/2401.m3u8
 http://csrv.tv:80/live/Leu22/Leo2020/1905.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD [Alter]
 http://csrv.tv:80/live/Leu22/Leo2020/2214.m3u8
+
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | 4K",Animal Planet 4K [H265]
 http://csrv.tv:80/live/Leu22/Leo2020/28663.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD
