@@ -32,6 +32,12 @@ https://ia601500.us.archive.org/4/items/o-homem-invisivel-2020/O%20Homem%20Invis
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Paciente 11 2018 
 https://www.googleapis.com/drive/v3/files/1Ah8rFL1OhrU6eQvNB1hMoVRroZ8NQgEq?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
+#EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Tina e Teo A Pedra Encantada 2019
+https://www.googleapis.com/drive/v3/files/1OlScxAUEuoJn30bfXEjU4SQIP3r-EjpS?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video" group-title="LANCAMENTOS" ,Marnie e os Amigos 2019
+https://www.googleapis.com/drive/v3/files/1D-ptV83Y8SOFT9mP4Bjo5pDmimTlECao?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Terremoto 2020
 https://content.jwplatform.com/videos/PRMHg0f0-hK28dEPb.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Doutor Doliro 2020
@@ -1839,6 +1845,9 @@ https://content.jwplatform.com/videos/nfbvZtK3-Fj6mOqH7.mp4
 https://content.jwplatform.com/videos/f902Izpl-2TdoDbn0.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Uma Vida Com Proposta 2017
 https://content.jwplatform.com/videos/NlCnxBGP-zJfxYVCz.mp4
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Caçador de Almas 2013
+https://www.googleapis.com/drive/v3/files/1x2c7quAdMTFJCZoRUokuOnmXQTGMhqNk?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 1
 https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%201%20%20720p.mp4
