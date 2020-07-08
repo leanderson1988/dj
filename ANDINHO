@@ -1,42 +1,45 @@
 #EXTM3U
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP1 Sobrenatural
-https://archive.org/serve/sobrenatural.-s-14-e-03/Supernatural.S14E01.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP2 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E02.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP3 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E03.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP4 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E04.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP5 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E05.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP6 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E06.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP7 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E07.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP8 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E08.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP9 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E09.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP10 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E10.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP11 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E11.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP12 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E12.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP13 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E13.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP14 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E14.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP15 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E15.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP16 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E16.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP17 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E17.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP18 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E18.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP19 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E19.mp4
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP20 Sobrenatural
-https://archive.org/download/sobrenatural.-s-14-e-11/Supernatural.S14E20.mp4
-
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP1 OS ORIGINAIS
+https://archive.org/serve/the.-originals.-1x-19/The.Originals.1x01.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP2 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x02.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP3 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x03.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP4 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x04.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP5 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x05.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP6 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x06.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP7 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x07.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP8 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x08.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP9 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x09.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP10 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x10.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP11 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x11.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP12 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x12.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP13 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x13.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP14 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x14.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP15 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x15.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP16 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x16.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP17 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x17.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP18 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x18.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP19 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x19.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP20 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x20.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP21 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x21.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Dr1XTL" group-title="OS ORIGINAIS" ,1T-EP22 OS ORIGINAIS
+https://archive.org/download/the.-originals.-1x-19/The.Originals.1x22.mp4
