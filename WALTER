@@ -1,4 +1,127 @@
 #EXTM3U
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 1
+https://archive.org/serve/bonanza-0/BONANZA%200.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 2
+https://archive.org/download/bonanza-0/BONANZA%201.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 3
+https://archive.org/download/bonanza-0/BONANZA%203.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 4
+https://archive.org/download/bonanza-0/BONANZA%204.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 5
+https://archive.org/download/bonanza-0/BONANZA%205.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 6
+https://archive.org/download/bonanza-0/BONANZA%206.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 7
+https://archive.org/download/bonanza-0/BONANZA%207.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 8
+https://archive.org/download/bonanza-0/BONANZA%208.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 9
+https://archive.org/download/bonanza-0/BONANZA%209.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 10
+https://archive.org/download/bonanza-0/BONANZA%2010.mp4
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Balada Do Pistoleiro 1995
+https://content.jwplatform.com/videos/BsjCSEd5-UQsvBE6L.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,8 Segundos 1994
+https://content.jwplatform.com/videos/Jhue72Y7-UQsvBE6L.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Era uma vez no méxico 2003
+https://content.jwplatform.com/videos/UHbv7rcx-Gml01jdk.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Django O Bastardo 1969
+https://content.jwplatform.com/videos/ujeoZweI-Gml01jdk.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Mar De Fogo 2004
+https://content.jwplatform.com/videos/JAkMxyfj-Gml01jdk.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Hatfields & Mccoys Parte 1 2012
+https://content.jwplatform.com/videos/HJyTpLEN-1M9prxLc.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Hatfields & Mccoys Parte 2 2013
+https://content.jwplatform.com/videos/jcZ6z4hy-1M9prxLc.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Hatfields & Mccoys Parte 3 2013
+https://content.jwplatform.com/videos/mHT52LSg-1M9prxLc.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Inferno No Faroeste 2013
+https://content.jwplatform.com/videos/doo4qNHV-CQCt9Pxj.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Django 1966
+https://content.jwplatform.com/videos/sJWQcKQX-yN8CsUnk.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Justiça Está Chegando 1993
+https://content.jwplatform.com/videos/0nUGdmrT-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Balada De Buster Scruggs 2018
+https://content.jwplatform.com/videos/p4MT8HBE-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Os Imperdoáveis 1992
+https://content.jwplatform.com/videos/I6FEQKgq-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,O Ultimo Duelo 2019
+https://content.jwplatform.com/videos/gzqa76Y0-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,O Retorno De John Henry 2016
+https://content.jwplatform.com/videos/HwszQQX0-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Lucky Luke Terence Hill 1991
+https://content.jwplatform.com/videos/2wjPUXh5-6jEWzZt7.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Hostis 2018
+https://content.jwplatform.com/videos/kVcDt8Zz-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Estigma Da Crueldade 1958
+https://content.jwplatform.com/videos/2jFi4jKm-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Vinganca De Lefty Brown 2018
+https://content.jwplatform.com/videos/OCQ6ve5f-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Lenda De Wild Bill 2019
+https://content.jwplatform.com/videos/9L0Qnrm8-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Trinity Ainda é O Meu Nome 1971
+https://content.jwplatform.com/videos/mayM6CzB-675pwaPV.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Três Homens Em Conflito 1966
+https://content.jwplatform.com/videos/WJmKSbFx-nivL2rkA.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Rastros De Vingança 2001
+https://content.jwplatform.com/videos/Qjo9Wvl9-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Resgate No Oeste 2019
+https://content.jwplatform.com/videos/Moq0bwli-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Terra Da Violência 2008
+https://content.jwplatform.com/videos/AsTh6h1w-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Sete Homens e Um Destino 2016
+https://content.jwplatform.com/videos/OC7fjKD2-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Nasce Uma Estrela 2018
+https://content.jwplatform.com/videos/N3NXLfhz-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Sela De Prata 1978
+https://content.jwplatform.com/videos/RpmM7ps0-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Ringo E Sua Pistola De Ouro 1966
+https://content.jwplatform.com/videos/PVJrPcAX-nivL2rkA.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Rapidinho No Gatilho 1994
+https://content.jwplatform.com/videos/O8jadC2a-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Terra Da Violência 2008
+https://content.jwplatform.com/videos/AsTh6h1w-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Django Vem Para Matar 1967
+https://content.jwplatform.com/videos/u4TgHCV2-PuyNkur6.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,da lhe duro trinity 1972
+https://content.jwplatform.com/videos/lqoif9xc-TTKdHX4c.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Meu Nome é Ninguém 1973
+https://content.jwplatform.com/videos/qYIrr6xP-2TdoDbn0.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Os Pistoleiros Do Oeste 1989
+https://content.jwplatform.com/videos/NCmZfsqR-NZsVya4t.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,O Rodeio Da Vida 1997
+https://content.jwplatform.com/videos/g19mfOLv-2TdoDbn0.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Mato Hoje Morro Amanhã 1968
+https://content.jwplatform.com/videos/0EJDOzMg-SLjrVf6Q.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,O Dola Furado 1965
+https://content.jwplatform.com/videos/Qk2ymXLm-2TdoDbn0.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Cactus Jack O Vilão 1979
+https://content.jwplatform.com/videos/ncB69S0A-2TdoDbn0.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,As Loucas Aventuras De James West 1999
+https://content.jwplatform.com/videos/Z3GM3FGG-2TdoDbn0.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Caminhos ÁSperos 1953
+https://content.jwplatform.com/videos/4C6wfufj-18Q3BZDO.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Big Kill A Cidade Do Medo 2019
+https://content.jwplatform.com/videos/7KJv279e-tmrR3xm7.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Morte Anda A Cavalo 1967
+https://content.jwplatform.com/videos/Wp6S4cpp-IK5vEmiy.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Forte Apáche 1948
+https://content.jwplatform.com/videos/ufypZEZG-lUWRZ73X.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Os Abutres Tem Fome 1970
+https://content.jwplatform.com/videos/VwjFqoFz-lUWRZ73X.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Jonah hex 2010
+https://content.jwplatform.com/videos/0YsR8Tdu-XP4H4gai.mp4
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Café e Kareem 2020
 https://content.jwplatform.com/videos/ioaFewgE-jWmiXxhn.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Cidade Do Crime 2017
@@ -2035,129 +2158,6 @@ https://content.jwplatform.com/videos/DGpAM1KH-bacgYk0M.mp4
 https://content.jwplatform.com/videos/1mKE8cMS-bacgYk0M.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes dog" ,Max 2015
 https://content.jwplatform.com/videos/MOn2xTt1-XP4H4gai.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 1
-https://archive.org/serve/bonanza-0/BONANZA%200.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 2
-https://archive.org/download/bonanza-0/BONANZA%201.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 3
-https://archive.org/download/bonanza-0/BONANZA%203.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 4
-https://archive.org/download/bonanza-0/BONANZA%204.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 5
-https://archive.org/download/bonanza-0/BONANZA%205.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 6
-https://archive.org/download/bonanza-0/BONANZA%206.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 7
-https://archive.org/download/bonanza-0/BONANZA%207.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 8
-https://archive.org/download/bonanza-0/BONANZA%208.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 9
-https://archive.org/download/bonanza-0/BONANZA%209.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 10
-https://archive.org/download/bonanza-0/BONANZA%2010.mp4
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Balada Do Pistoleiro 1995
-https://content.jwplatform.com/videos/BsjCSEd5-UQsvBE6L.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,8 Segundos 1994
-https://content.jwplatform.com/videos/Jhue72Y7-UQsvBE6L.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Era uma vez no méxico 2003
-https://content.jwplatform.com/videos/UHbv7rcx-Gml01jdk.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Django O Bastardo 1969
-https://content.jwplatform.com/videos/ujeoZweI-Gml01jdk.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Mar De Fogo 2004
-https://content.jwplatform.com/videos/JAkMxyfj-Gml01jdk.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Hatfields & Mccoys Parte 1 2012
-https://content.jwplatform.com/videos/HJyTpLEN-1M9prxLc.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Hatfields & Mccoys Parte 2 2013
-https://content.jwplatform.com/videos/jcZ6z4hy-1M9prxLc.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Hatfields & Mccoys Parte 3 2013
-https://content.jwplatform.com/videos/mHT52LSg-1M9prxLc.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Inferno No Faroeste 2013
-https://content.jwplatform.com/videos/doo4qNHV-CQCt9Pxj.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Django 1966
-https://content.jwplatform.com/videos/sJWQcKQX-yN8CsUnk.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Justiça Está Chegando 1993
-https://content.jwplatform.com/videos/0nUGdmrT-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Balada De Buster Scruggs 2018
-https://content.jwplatform.com/videos/p4MT8HBE-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Os Imperdoáveis 1992
-https://content.jwplatform.com/videos/I6FEQKgq-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,O Ultimo Duelo 2019
-https://content.jwplatform.com/videos/gzqa76Y0-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,O Retorno De John Henry 2016
-https://content.jwplatform.com/videos/HwszQQX0-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Lucky Luke Terence Hill 1991
-https://content.jwplatform.com/videos/2wjPUXh5-6jEWzZt7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Hostis 2018
-https://content.jwplatform.com/videos/kVcDt8Zz-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Estigma Da Crueldade 1958
-https://content.jwplatform.com/videos/2jFi4jKm-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Vinganca De Lefty Brown 2018
-https://content.jwplatform.com/videos/OCQ6ve5f-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Lenda De Wild Bill 2019
-https://content.jwplatform.com/videos/9L0Qnrm8-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Trinity Ainda é O Meu Nome 1971
-https://content.jwplatform.com/videos/mayM6CzB-675pwaPV.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Três Homens Em Conflito 1966
-https://content.jwplatform.com/videos/WJmKSbFx-nivL2rkA.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Rastros De Vingança 2001
-https://content.jwplatform.com/videos/Qjo9Wvl9-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Resgate No Oeste 2019
-https://content.jwplatform.com/videos/Moq0bwli-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Terra Da Violência 2008
-https://content.jwplatform.com/videos/AsTh6h1w-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Sete Homens e Um Destino 2016
-https://content.jwplatform.com/videos/OC7fjKD2-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Nasce Uma Estrela 2018
-https://content.jwplatform.com/videos/N3NXLfhz-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Sela De Prata 1978
-https://content.jwplatform.com/videos/RpmM7ps0-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Ringo E Sua Pistola De Ouro 1966
-https://content.jwplatform.com/videos/PVJrPcAX-nivL2rkA.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Rapidinho No Gatilho 1994
-https://content.jwplatform.com/videos/O8jadC2a-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Terra Da Violência 2008
-https://content.jwplatform.com/videos/AsTh6h1w-Yd4xCB27.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Django Vem Para Matar 1967
-https://content.jwplatform.com/videos/u4TgHCV2-PuyNkur6.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,da lhe duro trinity 1972
-https://content.jwplatform.com/videos/lqoif9xc-TTKdHX4c.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Meu Nome é Ninguém 1973
-https://content.jwplatform.com/videos/qYIrr6xP-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Os Pistoleiros Do Oeste 1989
-https://content.jwplatform.com/videos/NCmZfsqR-NZsVya4t.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,O Rodeio Da Vida 1997
-https://content.jwplatform.com/videos/g19mfOLv-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Mato Hoje Morro Amanhã 1968
-https://content.jwplatform.com/videos/0EJDOzMg-SLjrVf6Q.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,O Dola Furado 1965
-https://content.jwplatform.com/videos/Qk2ymXLm-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Cactus Jack O Vilão 1979
-https://content.jwplatform.com/videos/ncB69S0A-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,As Loucas Aventuras De James West 1999
-https://content.jwplatform.com/videos/Z3GM3FGG-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Caminhos ÁSperos 1953
-https://content.jwplatform.com/videos/4C6wfufj-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Big Kill A Cidade Do Medo 2019
-https://content.jwplatform.com/videos/7KJv279e-tmrR3xm7.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,A Morte Anda A Cavalo 1967
-https://content.jwplatform.com/videos/Wp6S4cpp-IK5vEmiy.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Forte Apáche 1948
-https://content.jwplatform.com/videos/ufypZEZG-lUWRZ73X.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Os Abutres Tem Fome 1970
-https://content.jwplatform.com/videos/VwjFqoFz-lUWRZ73X.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Jonah hex 2010
-https://content.jwplatform.com/videos/0YsR8Tdu-XP4H4gai.mp4
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E01
 https://content.jwplatform.com/videos/vRoMJ7CU-oXtn2fcS.mp4
