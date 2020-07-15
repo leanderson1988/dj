@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1 type="video"-logo="https://bit.ly/3j6ztPa" group-title="FILME" ,O DOUTOR DA FELICIDADE 2017
+https://archive.org/serve/o-doutor-da-felicidade-2018/O%20Doutor%20da%20Felicidade%202018.mp4
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Ilusionista 2006
+https://content.jwplatform.com/videos/j9WzXGTN-yN8CsUnk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Extraordinário 2018
+https://content.jwplatform.com/videos/eGlOzbMu-q8FTDhka.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Titanic 1 1997
+https://content.jwplatform.com/videos/tu8TRoNe-q8FTDhka.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Além Da Vida 2019
+https://content.jwplatform.com/videos/w0kZ9flo-x08hJpYs.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Juntos Para Sempre 2019
+https://content.jwplatform.com/videos/HtqnQSlQ-x08hJpYs.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Domando O Destino 2019
+https://content.jwplatform.com/videos/PhmX3MYb-x08hJpYs.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Menino Que Descobriu O Vento 2019
+https://content.jwplatform.com/videos/BdOPt4xc-0uvDYoAG.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Scooby Doo O Misterio Começa 2009
+https://content.jwplatform.com/videos/esojC7Z8-LElI8svP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Sierra Burgess é um perdedor 2018
+https://content.jwplatform.com/videos/cZoeha57-7qlVbwrC.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Nova Cinderela 2011
+https://content.jwplatform.com/videos/iqgwEuH3-TTKdHX4c.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Diabo Veste Prada 2006
+https://content.jwplatform.com/videos/evJG6mJO-7qlVbwrC.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Quase 18 2017
+https://content.jwplatform.com/videos/Thq75987-7qlVbwrC.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Para Todos Os Garotos Que Ja Amei 2018
+https://content.jwplatform.com/videos/SkHAesFh-7qlVbwrC.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Nova Cinderela 2004
+https://content.jwplatform.com/videos/cY0Nofd3-7qlVbwrC.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Garota Perfeita 2018
+https://content.jwplatform.com/videos/fobGoksq-7qlVbwrC.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Histórias Cruzadas 2012
+https://content.jwplatform.com/videos/pelA41uQ-zJfxYVCz.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Golpe Duplo 2015
+https://content.jwplatform.com/videos/APUbBdOS-Ay5r7f3Q.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Fantástica Fábrica De Chocolate 2005
+https://content.jwplatform.com/videos/gGC4jmHw-18Q3BZDO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Homem Que Inventou O Natal 2018
+https://content.jwplatform.com/videos/MNZVYkW8-nIPYi4xr.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Evereste 2015
+https://content.jwplatform.com/videos/VQv6X7zN-nIPYi4xr.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Curioso Caso De Benjamin Button 2008
+https://content.jwplatform.com/videos/9IAiBCiu-zSAQjdt3.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Barraca Do Beijo 2018
+https://content.jwplatform.com/videos/8YMkVQdS-NwnrkkSt.mp4
+
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,REI DOS LADROES 2018
 https://www.googleapis.com/drive/v3/files/1zqXA5xx03wa1gRLiFgRBZtUjLMU6rZYZ?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 type="video" group-title="LANCAMENTOS" ,O Homem Invisivel 2020
@@ -2621,51 +2669,6 @@ https://content.jwplatform.com/videos/fF9L9LuI-lUWRZ73X.mp4
 https://content.jwplatform.com/videos/IhEumY7S-zSAQjdt3.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="drama e romance" ,Como Eu Era Antes De Você 2016
 https://content.jwplatform.com/videos/5MyVw1FM-q8FTDhka.mp4
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Ilusionista 2006
-https://content.jwplatform.com/videos/j9WzXGTN-yN8CsUnk.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Extraordinário 2018
-https://content.jwplatform.com/videos/eGlOzbMu-q8FTDhka.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Titanic 1 1997
-https://content.jwplatform.com/videos/tu8TRoNe-q8FTDhka.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Além Da Vida 2019
-https://content.jwplatform.com/videos/w0kZ9flo-x08hJpYs.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Juntos Para Sempre 2019
-https://content.jwplatform.com/videos/HtqnQSlQ-x08hJpYs.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Domando O Destino 2019
-https://content.jwplatform.com/videos/PhmX3MYb-x08hJpYs.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Menino Que Descobriu O Vento 2019
-https://content.jwplatform.com/videos/BdOPt4xc-0uvDYoAG.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Scooby Doo O Misterio Começa 2009
-https://content.jwplatform.com/videos/esojC7Z8-LElI8svP.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Sierra Burgess é um perdedor 2018
-https://content.jwplatform.com/videos/cZoeha57-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Nova Cinderela 2011
-https://content.jwplatform.com/videos/iqgwEuH3-TTKdHX4c.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Diabo Veste Prada 2006
-https://content.jwplatform.com/videos/evJG6mJO-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Quase 18 2017
-https://content.jwplatform.com/videos/Thq75987-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Para Todos Os Garotos Que Ja Amei 2018
-https://content.jwplatform.com/videos/SkHAesFh-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Nova Cinderela 2004
-https://content.jwplatform.com/videos/cY0Nofd3-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Garota Perfeita 2018
-https://content.jwplatform.com/videos/fobGoksq-7qlVbwrC.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Histórias Cruzadas 2012
-https://content.jwplatform.com/videos/pelA41uQ-zJfxYVCz.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Golpe Duplo 2015
-https://content.jwplatform.com/videos/APUbBdOS-Ay5r7f3Q.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Fantástica Fábrica De Chocolate 2005
-https://content.jwplatform.com/videos/gGC4jmHw-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Homem Que Inventou O Natal 2018
-https://content.jwplatform.com/videos/MNZVYkW8-nIPYi4xr.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Evereste 2015
-https://content.jwplatform.com/videos/VQv6X7zN-nIPYi4xr.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Curioso Caso De Benjamin Button 2008
-https://content.jwplatform.com/videos/9IAiBCiu-zSAQjdt3.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Barraca Do Beijo 2018
-https://content.jwplatform.com/videos/8YMkVQdS-NwnrkkSt.mp4
 
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Coragem O Cão Covarde
 https://content.jwplatform.com/videos/LHJsEIpX-R5JUFnZ2.mp4
