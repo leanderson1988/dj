@@ -439,27 +439,6 @@ https://archive.org/download/ben-10_202007/Baki%20S02E12.mp4
 https://archive.org/download/ben-10_202007/Baki%20S02E13.mp4
 
 #EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP1 Sobrenatural
-https://www.googleapis.com/drive/v3/files/15gFbHWaS7vkX998G2iTRcUQXR-pkhiGx?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP2 Sobrenatural
-https://www.googleapis.com/drive/v3/files/1jymOUBa_Dd-QV4P5eyeOOS-A9snIhl4A?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP3 Sobrenatural
-https://www.googleapis.com/drive/v3/files/1NM-e_M5ZXLml_0BpoXhtd0IvX5_aL0FS?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP4 Sobrenatural
-https://www.googleapis.com/drive/v3/files/1TUhOV68a9gTrdbgn9TpfcI7D3TbSxJQt?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP5 Sobrenatural
-https://www.googleapis.com/drive/v3/files/1RKZP34x-WlPqMhj-zamGSELF9kBarfPE?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP6 Sobrenatural
-https://www.googleapis.com/drive/v3/files/1NWydsjcgImqQ3eJMlXDNq2VXeDRhOaXd?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP7 Sobrenatural
-https://www.googleapis.com/drive/v3/files/1dUKu2QjT_J8Bs2FEfcqVC8lKFN-6V9ai?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP8 Sobrenatural
-https://www.googleapis.com/drive/v3/files/1NXoeLHomq0TvZLF1hiveMXkhB1mh1tR5?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP9 Sobrenatural
-https://www.googleapis.com/drive/v3/files/1JTSW1z7vkyJjIbXNigobyY5r_6GoHGei?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP10 Sobrenatural
-https://www.googleapis.com/drive/v3/files/13TF_ea_AWeSSx0BRsqqP7fhudJd4Xc7c?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP1 Sobrenatural
 https://archive.org/serve/sobrenatural.-s-14-e-03/Supernatural.S14E01.mp4
 #EXTINF:-1 type="video" group-title="Sobrenatural" ,14T-EP2 Sobrenatural
 https://archive.org/download/sobrenatural.-s-14-e-03/Supernatural.S14E02.mp4
@@ -590,7 +569,30 @@ https://archive.org/download/ben-10_202007/Ben%2010.mp4
 #EXTINF:-1 type="video"-logo="https://bit.ly/2ZD1eGd" group-title="DESENHO" ,Spirit O Corcel Indomáve 2002
 https://archive.org/download/spirit-o-corcel-indomave-2002/Spirit%20O%20Corcel%20Indom%C3%A1ve%202002.mp4
 
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZylERU" group-title="NOVELA" ,AGUA VIVA 1 1980
+https://archive.org/download/novela-agua-viva-1/NOVELA%20AGUA%20VIVA%201.mp4
 
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZylERU" group-title="NOVELA" ,AGUA VIVA 2 1980
+https://archive.org/download/novela-agua-viva-1/NOVELA%20AGUA%20VIVA%202.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 1 1999
+https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E001.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 2 1999
+https://ia601505.us.archive.org/13/items/malhacao-s-06-e-001/Malhacao%20S06E002.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 3 1999
+https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E003.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 4 1999
+https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E004.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 5 1999
+https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E005.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 6 1999
+https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E006.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 7 1999
+https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E007.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 8 1999
+https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E008.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 9 1999
+https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E009.mp4
 
 
 
