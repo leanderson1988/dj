@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZylERU" group-title="NOVELA" ,AGUA VIVA 1 1980
+https://archive.org/download/novela-agua-viva-1/NOVELA%20AGUA%20VIVA%201.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZylERU" group-title="NOVELA" ,AGUA VIVA 2 1980
+https://archive.org/download/novela-agua-viva-1/NOVELA%20AGUA%20VIVA%202.mp4
+
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Café e Kareem 2020
 https://content.jwplatform.com/videos/ioaFewgE-jWmiXxhn.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Cidade Do Crime 2017
@@ -118,32 +125,6 @@ https://archive.org/download/spirit-o-corcel-indomave-2002/LEGO%20Super%20Her%C3
 #EXTINF:-1 type="video"-logo="https://i.imgur.com/t9TfjXA.jpg" group-title="DESENHO LEGO" ,Uma Aventura Lego 2014
 https://archive.org/download/spirit-o-corcel-indomave-2002/Uma%20Aventura%20Lego%202014.mp4
 
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO Ninjago O Filme 2018
-https://www.googleapis.com/drive/v3/files/1WQ6lt9_zKW7kyCGrn-8Txe3YTZu2MFsL?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego DC Shazam Magia e Monstros 2020
-https://www.googleapis.com/drive/v3/files/1p2J13eEAapRTse1aRLicixcpAy3pbcTd?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO DC Batman Assuntos de Família 2019
-https://www.googleapis.com/drive/v3/files/1iFf8FcI941Fa9MQ8o2xwtz2GE-JFB_Mn?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO 2 Uma Aventura 2019
-https://www.googleapis.com/drive/v3/files/1-5LD3h3JLgjFAoozJVz-ZEf2R47mczfe?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO DC Comics Super Heróis Aquaman A Fúria de Atlântida 2018
-https://www.googleapis.com/drive/v3/files/1LoVrIqJsES-xgES_rpc-quFuMxo3Br82?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego DC Comics Super Herois O Flash 2018
-https://www.googleapis.com/drive/v3/files/1almKAnkTdzCQb9skrxZ-ojDTbFyUlbOi?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,LEGO Ninjago O Filme 2018
-https://www.googleapis.com/drive/v3/files/1WQ6lt9_zKW7kyCGrn-8Txe3YTZu2MFsL?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego dc Super Hero Girls Brain Drain 2017
-https://www.googleapis.com/drive/v3/files/1JdBchUpL2GVTm3Yb32ZjZ55onblFgglM?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO LEGO" ,Lego Liga da Justiça Combate Cósmico 2016
-https://www.googleapis.com/drive/v3/files/1W3Jclf1UkGB1gSq2ov8VRkRLGQoKSGSl?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Z A Cidade Perdida 2017
 https://content.jwplatform.com/videos/SeRE7c73-jWmiXxhn.mp4
@@ -1816,14 +1797,19 @@ https://content.jwplatform.com/videos/NlCnxBGP-zJfxYVCz.mp4
 
 #EXTINF:-1 type="video" group-title="TERROR" ,INVOCAÇAÕ do Mal 1 2013
 https://www.googleapis.com/drive/v3/files/1rBoPu_seRnLI9HmsXrtaiW7NkpZDJ9eU?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video" group-title="TERROR" ,INVOCAÇAÕ do Mal 2 2016
 https://www.googleapis.com/drive/v3/files/1nSWzNl0IPhQWxFDp_LOIENnL0kr-RXvW?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Seres Rastejantes 2006
-https://www.googleapis.com/drive/v3/files/10NMBO0uMSPf6ZZ3xQteRy3HeraGJmn35?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Eu Sei o que Vocês Fizeram no Verão Passado 1997
-https://www.googleapis.com/drive/v3/files/1Tf4_ehPOxj9pzC93JJZcM6h74WNlFYei?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Eu Ainda Sei O Que Vocês Fizeram No Verão Passado 1998
-https://www.googleapis.com/drive/v3/files/1rK4G78y1CgJmxYKpf4R-wknE1_IXstUe?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Eu Sei o que Vocês Fizeram no Verão Passado 1997
+https://archive.org/download/o-professor-aloprado-1996/Eu%20Sei%20o%20que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado.mp4
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Eu Ainda Sei O Que Vocês Fizeram No Verão Passado 1998
+https://archive.org/download/o-professor-aloprado-1996/Eu%20Ainda%20Sei%20O%20Que%20Voc%C3%AAs%20Fizeram%20No%20Ver%C3%A3o%20Passado%201998.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/2YyOdy9" group-title="TERROR" ,Seres Rastejantes 2006
+https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Seres%20Rastejantes%202006.mp4
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Possessão de Maria 2020
 https://content.jwplatform.com/videos/8swbXLJD-jWmiXxhn.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,O Grito 2020
