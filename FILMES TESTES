@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="CANAL" ,CANAL 1
 https://live.netcanais.com/GloboSP/video.m3u8?token=38994251ea4198ac626276982e8d0d6b&expires=1595208369&ip=2804:f14:80af:6900:b9f7:1e37:24f:d575
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="CANAL" ,CANAL 2
-https://usb.bozztv.com/kabomtv/index.m3u8
+https://live.netcanais.com/GloboSP/video.m3u8?token=38994251ea4198ac626276982e8d0d6b&expires=1595208369&ip=2804:f14:80af:6900:b9f7:1e37:24f:d575
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="CANAL" ,CANAL 3
-https://usb.bozztv.com/kabomtv/index.m3u8
+https://live.netcanais.com/GloboSP/video.m3u8?token=38994251ea4198ac626276982e8d0d6b&expires=1595208369&ip=2804:f14:80af:6900:b9f7:1e37:24f:d575
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="CANAL" ,CANAL 4
 http://169.57.142.110:25461/live/XtGHF1xiop/VrN0rJkEkT/42.ts
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="CANAL" ,CANAL 5
