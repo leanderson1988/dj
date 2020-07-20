@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:-1 type="video"-logo="https://bit.ly/2ZylERU" group-title="NOVELA" ,AGUA VIVA 1 1980
-https://archive.org/download/novela-agua-viva-1/NOVELA%20AGUA%20VIVA%201.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2ZylERU" group-title="NOVELA" ,AGUA VIVA 2 1980
-https://archive.org/download/novela-agua-viva-1/NOVELA%20AGUA%20VIVA%202.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 1 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E001.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 2 1999
-https://ia601505.us.archive.org/13/items/malhacao-s-06-e-001/Malhacao%20S06E002.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 3 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E003.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 4 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E004.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 5 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E005.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 6 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E006.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 7 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E007.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 8 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E008.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 9 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E009.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 10 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E010.mp4
-
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Café e Kareem 2020
 https://content.jwplatform.com/videos/ioaFewgE-jWmiXxhn.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Cidade Do Crime 2017
