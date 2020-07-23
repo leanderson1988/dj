@@ -2630,6 +2630,9 @@ https://content.jwplatform.com/videos/9IAiBCiu-zSAQjdt3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Barraca Do Beijo 2018
 https://content.jwplatform.com/videos/8YMkVQdS-NwnrkkSt.mp4
 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,BEN 10
+https://www.googleapis.com/drive/v3/files/1MVn3eheYzbExfMFLDHEnXsym0SrEzaAl?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Coragem O Cão Covarde
 https://content.jwplatform.com/videos/LHJsEIpX-R5JUFnZ2.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Tom E Jeeey Vol.1
