@@ -159,6 +159,10 @@ https://archive.org/download/spirit-o-corcel-indomave-2002/LEGO%20Super%20Her%C3
 #EXTINF:-1 type="video"-logo="https://i.imgur.com/t9TfjXA.jpg" group-title="DESENHO LEGO" ,Uma Aventura Lego 2014
 https://archive.org/download/spirit-o-corcel-indomave-2002/Uma%20Aventura%20Lego%202014.mp4
 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,BEN 10
+https://www.googleapis.com/drive/v3/files/1MVn3eheYzbExfMFLDHEnXsym0SrEzaAl?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+
 #EXTINF:-1 type="video" group-title="CLASSICO" ,Um Tira No Jardim Da Infancia 1990
 https://www.googleapis.com/drive/v3/files/1os-2WnonRovORTCU0zqTOJwu7zsArGkM?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
@@ -599,35 +603,6 @@ https://archive.org/download/the.-walking.-dead.-s-09-e-06-720p/The.Walking.Dead
 https://archive.org/download/the.-walking.-dead.-s-09-e-06-720p/The.Walking.Dead.S09E13%20720p.mp4
 #EXTINF:-1 type="video" group-title="The Walking Dead" ,9T-EP14 The Walking Dead
 https://archive.org/download/the.-walking.-dead.-s-09-e-06-720p/The.Walking.Dead.S09E14%20720p.mp4
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Caçador de Almas 2013
-https://pandafiles.com/1sg504mryaaj/Ca__ador_de_Almas.mp4
-
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILME" ,BEN 10
-https://pandafiles.com/c2tn02vtluxl/Ben_10.mp4
-
-
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILME" ,CASA COMIGO 
-https://pandafiles.com/cmamzydha9n6/Casa_Comigo_2010.mp4
-
-
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILME" ,DEBI E LOIDE 1
-https://pandafiles.com/bxsf6csjzbje/Debi___L__ide_1.mp4
-
-
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILME" ,DEBI LOIDE 2
-https://pandafiles.com/e90eovet1lbo/Debi___L__ide_2_2015.mp4
-
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FILME" ,Hora DAS CONSEQUENCIA
-https://pandafiles.com/a792fzzgxii7/Hora_das_Consequ__ncias.mp4
-
-
-
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/3f2WQqE" group-title="FAROESTE" ,BONANZA 1
 https://archive.org/serve/bonanza-0/BONANZA%200.mp4
