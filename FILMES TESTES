@@ -1,21 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
-http://srvx.io:80/live/Salviano25/Salviano2020/1933.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [Alter]
-http://srvx.io:80/live/Salviano25/Salviano2020/45194.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-http://srvx.io:80/live/Salviano25/Salviano2020/25424.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265] [Alter]
-http://srvx.io:80/live/Salviano25/Salviano2020/29441.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
-http://srvx.io:80/live/Salviano25/Salviano2020/1750.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD [Alter]
-http://srvx.io:80/live/Salviano25/Salviano2020/2336.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
-http://srvx.io:80/live/Salviano25/Salviano2020/1751.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD [Alter]
-http://srvx.io:80/live/Salviano25/Salviano2020/2158.m3u8
-
 #EXTINF:-1 type="video"-logo="https://bit.ly/2CelnKO" group-title="LANCAMENTOS" ,REI DOS LADROES 2018
 https://www.googleapis.com/drive/v3/files/1zqXA5xx03wa1gRLiFgRBZtUjLMU6rZYZ?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
