@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD
+http://srvx.io:80/live/Salviano25/Salviano2020/1939.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [Alter]
+http://srvx.io:80/live/Salviano25/Salviano2020/45188.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://srvx.io:80/live/Salviano25/Salviano2020/25427.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [H265] [Alter]
+http://srvx.io:80/live/Salviano25/Salviano2020/29447.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD
+http://srvx.io:80/live/Salviano25/Salviano2020/1762.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD [Alter]
+http://srvx.io:80/live/Salviano25/Salviano2020/2342.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD
+http://srvx.io:80/live/Salviano25/Salviano2020/1763.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD [Alter]
+http://srvx.io:80/live/Salviano25/Salviano2020/2165.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD
+http://srvx.io:80/live/Salviano25/Salviano2020/1938.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [Alter]
+http://srvx.io:80/live/Salviano25/Salviano2020/45189.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://srvx.io:80/live/Salviano25/Salviano2020/25426.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [H265] [Alter]
+http://srvx.io:80/live/Salviano25/Salviano2020/29446.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 HD
+http://srvx.io:80/live/Salviano25/Salviano2020/1760.m3u8
+
 #EXTINF:-1 type="video"-logo="https://bit.ly/2CelnKO" group-title="LANCAMENTOS" ,REI DOS LADROES 2018
 https://www.googleapis.com/drive/v3/files/1zqXA5xx03wa1gRLiFgRBZtUjLMU6rZYZ?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
