@@ -1,21 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV ULTRA HD" tvg-logo="https://media.glassdoor.com/sqll/2493007/fish-tv-squarelogo-1554962085151.png" group-title="CANAIS: ESPORTES",FISH TV ULTRA HD
-http://stream.angels.red:80/96686864/257475/2212
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES SD
-http://stream.angels.red:80/96686864/257475/2236
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES SD²
-http://stream.angels.red:80/96686864/257475/2237
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
-http://stream.angels.red:80/96686864/257475/2238
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD²
-http://stream.angels.red:80/96686864/257475/2239
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE CLUBES HD³" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD³
-http://stream.angels.red:80/96686864/257475/2240
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FHD²
-http://stream.angels.red:80/96686864/257475/2241
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE CLUBES ULTRA HD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES ULTRA HD
-http://stream.angels.red:80/96686864/257475/2242
-
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Café e Kareem 2020
 https://content.jwplatform.com/videos/ioaFewgE-jWmiXxhn.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Cidade Do Crime 2017
