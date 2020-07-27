@@ -896,6 +896,15 @@ https://content.jwplatform.com/videos/16xJbo5Q-bWtniFnP.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman 4 1997
 https://content.jwplatform.com/videos/XfZ7UMiy-bWtniFnP.mp4
 
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jIuqF6" group-title="FCCAO" ,Power Rangers O Filme 1995
+https://archive.org/serve/power-rangers-o-filme-1995/Power%20Rangers%20O%20Filme%201995.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jHgDi3" group-title="FCCAO" ,Power Rangers Turbo O Filme 1997
+https://archive.org/download/power-rangers-o-filme-1995/Power%20Rangers%20Turbo%20O%20Filme%201997.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3f26rgs" group-title="FCCAO" ,Power rangers Super Megafor A Batalha Lendária 2017
+https://archive.org/download/power-rangers-o-filme-1995/Power%20rangers%20Super%20Megafor%20A%20Batalha%20Lend%C3%A1ria%202017.mp4
+
 #EXTINF:-1 type="video"-logo="https://bit.ly/2EiBXKA" group-title="FCCAO" ,Jogador Numero 1 2018
 https://www.googleapis.com/drive/v3/files/1R1diJCPNQGA96gKekopo9RbIFUzfHKnI?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,Projeto Gemini 2019 
