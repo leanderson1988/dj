@@ -2,6 +2,9 @@
 #EXTINF:-1 type="video"-logo="https://bit.ly/3f9gsZy" group-title="LANCAMENTOS" ,ScoobY O Filme
 https://archive.org/serve/scoob-doo-2020/Scoob%20doo%202020.mp4
 
+#EXTINF:-1 type="video"-logo="https://bit.ly/3g4FKJh" group-title="LANCAMENTOS" ,Milagre na Cela 7 2019
+https://www.googleapis.com/drive/v3/files/1PttD6pVObkM6EysTKJ6TgpdCOwG1UrL0?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video"-logo="https://bit.ly/2CelnKO" group-title="LANCAMENTOS" ,REI DOS LADROES 2018
 https://www.googleapis.com/drive/v3/files/1zqXA5xx03wa1gRLiFgRBZtUjLMU6rZYZ?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
@@ -96,6 +99,13 @@ https://www.googleapis.com/drive/v3/files/1hcqBnMss09A8Dr4wH875_wF-P44wgp6l?alt=
 #EXTINF:-1 type="video"-logo="https://bit.ly/38DV64J" group-title="LANCAMENTOS" ,Mortal Kombat A Vinganca de Scorpion 2020
 https://www.googleapis.com/drive/v3/files/1O5gK3lqsr08r99KD3FIM6B27LkRq-Hcs?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
+#EXTINF:-1 type="video"-logo="https://bit.ly/3faCrQA" group-title="LANCAMENTOS" ,Um Amor de Filhote 2018
+https://www.googleapis.com/drive/v3/files/17xlrvwg-otTylGtQcjMlqX6WzLdykixP?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/2O8KW2w" group-title="LANCAMENTOS" ,Luce 2019
+https://www.googleapis.com/drive/v3/files/1pZwc39Lv4K8U2tpv5soZLtarlN0otxUK?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video"-logo="https://" group-title="AVENTURA" ,Crepusculo 1 2008
 https://content.jwplatform.com/videos/KnIteJsi-BvF3GI2K.mp4
 
@@ -110,15 +120,6 @@ https://content.jwplatform.com/videos/PuaZAywT-BvF3GI2K.mp4
 
 #EXTINF:-1 type="video"-logo="https://" group-title="AVENTURA" ,Crepusculo 5 Amanhecer PT.2   2012
 https://content.jwplatform.com/videos/t5DB2JVf-BvF3GI2K.mp4
-
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3faCrQA" group-title="LANCAMENTOS" ,Um Amor de Filhote 2018
-https://www.googleapis.com/drive/v3/files/17xlrvwg-otTylGtQcjMlqX6WzLdykixP?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2O8KW2w" group-title="LANCAMENTOS" ,Luce 2019
-https://www.googleapis.com/drive/v3/files/1pZwc39Lv4K8U2tpv5soZLtarlN0otxUK?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3dFQoV3" group-title="DESENHO LEGO" ,LEGO Ninjago O Filme 2018
 https://www.googleapis.com/drive/v3/files/1WQ6lt9_zKW7kyCGrn-8Txe3YTZu2MFsL?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
