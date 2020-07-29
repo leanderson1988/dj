@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
+http://srvx.io:80/live/Maciel27/Maciel2020/1750.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD [Alter]
+http://srvx.io:80/live/Maciel27/Maciel2020/2336.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
+http://srvx.io:80/live/Maciel27/Maciel2020/1751.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD [Alter]
+http://srvx.io:80/live/Maciel27/Maciel2020/2158.m3u8
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Café e Kareem 2020
 https://content.jwplatform.com/videos/ioaFewgE-jWmiXxhn.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Cidade Do Crime 2017
