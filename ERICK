@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 type="video"-logo="https://bit.ly/3feotfM" group-title="LANCAMENTOS" ,Superman Red Son 2020
+https://archive.org/download/dirty-dancing-o-musical-2017/Superman%20Red%20Son%202020.mp4
+
 #EXTINF:-1 type="video"-logo="https://bit.ly/3f9gsZy" group-title="LANCAMENTOS" ,ScoobY O Filme
 https://archive.org/serve/scoob-doo-2020/Scoob%20doo%202020.mp4
 
@@ -1808,6 +1811,12 @@ https://content.jwplatform.com/videos/3eo4LHG8-nIPYi4xr.mp4
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/2X0j1qv" group-title="DANCA" ,Dirty Dancing
 https://archive.org/serve/dirty-dancing/Dirty%20Dancing.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/312tLWy" group-title="DANCA" ,Dirty Dancing 2 2004
+https://archive.org/serve/dirty-dancing-o-musical-2017/Dirty%20Dancing%202%202004.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jXYeOc" group-title="DANCA" ,Dirty Dancing O Musical 2017
+https://archive.org/download/dirty-dancing-o-musical-2017/Dirty%20Dancing%20O%20Musical%202017.mp4
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="DANCA" ,8 Mile Rua Das Ilusões 2002
 https://content.jwplatform.com/videos/ImGvOdvs-5TSzydBj.mp4
