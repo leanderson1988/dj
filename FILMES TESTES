@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 type="video"-logo="https://bit.ly/3feotfM" group-title="LANCAMENTOS" ,Superman Red Son 2020
+https://archive.org/download/dirty-dancing-o-musical-2017/Superman%20Red%20Son%202020.mp4
+
 #EXTINF:-1 type="video"-logo="https://bit.ly/3f9gsZy" group-title="LANCAMENTOS" ,ScoobY O Filme
 https://archive.org/serve/scoob-doo-2020/Scoob%20doo%202020.mp4
 
@@ -260,6 +263,12 @@ https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%
 #EXTINF:-1 type="video"-logo="https://bit.ly/2X0j1qv" group-title="DANCA" ,Dirty Dancing
 https://archive.org/serve/dirty-dancing/Dirty%20Dancing.mp4
 
+#EXTINF:-1 type="video"-logo="https://bit.ly/312tLWy" group-title="DANCA" ,Dirty Dancing 2 2004
+https://archive.org/serve/dirty-dancing-o-musical-2017/Dirty%20Dancing%202%202004.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jXYeOc" group-title="DANCA" ,Dirty Dancing O Musical 2017
+https://archive.org/download/dirty-dancing-o-musical-2017/Dirty%20Dancing%20O%20Musical%202017.mp4
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Dr  Dolittle 1 1998
 https://archive.org/serve/o-professor-aloprado-1996/Dr%20%20Dolittle%201%201998.mp4
 
@@ -277,6 +286,22 @@ https://www.googleapis.com/drive/v3/files/1R1diJCPNQGA96gKekopo9RbIFUzfHKnI?alt=
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/2ZSUiVH" group-title="FCCAO" ,Os Guardiões 2017
 https://archive.org/serve/os.-guardioes.-2017.720p/Os.Guardi%C3%B5es.2017.720p.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E01
 https://archive.org/serve/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E01.mp4
@@ -799,6 +824,12 @@ https://www.googleapis.com/drive/v3/files/12K4bQCKIaUv8AoZazCK_1WysdMbFPnwf?alt=
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/3g1HDGR" group-title="BATWOMAN" ,BATWOMAN 1T11
 https://www.googleapis.com/drive/v3/files/1_3nL85ls2xfs2N788lEd6ZC81lbRxmFS?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3g1HDGR" group-title="BATWOMAN" ,BATWOMAN 1T12
+https://www.googleapis.com/drive/v3/files/1M1_sa6KHaLJZlog0zyLD3DFq1c27sERn?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3g1HDGR" group-title="BATWOMAN" ,BATWOMAN 1T13
+https://www.googleapis.com/drive/v3/files/1sQ32IxqeIe4ecthJxj4jWqSzDNRnunLr?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/3jFKE1L" group-title="HANNA " ,HANNA 1T01
 https://ia801405.us.archive.org/21/items/hanna.-2019.-s-01-e-08/Hanna.2019.S01E01.mp4
