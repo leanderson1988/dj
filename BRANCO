@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 type="video"-logo="https://bit.ly/2PJuQNM" group-title="LANCAMENTOS" ,Sem Misericordia 2019
+https://archive.org/download/querido-john-hd/Sem%20Misericordia%202019.mp4
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Chamado Da Floresta 2020
 https://content.jwplatform.com/videos/gq5z2OYk-hK28dEPb.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Terremoto 2020
@@ -882,6 +885,9 @@ https://content.jwplatform.com/videos/5wKHCchf-XP4H4gai.mp4
 https://content.jwplatform.com/videos/DHaQKVLP-XP4H4gai.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,Jumper 2008
 https://content.jwplatform.com/videos/v34AZbTS-XP4H4gai.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/31SAfrA" group-title="ACAO" ,A Morte e Vida de Bobby Z 2007
+https://archive.org/download/querido-john-hd/A%20Morte%20e%20Vida%20de%20Bobby%20Z%202007.mp4
 
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Dificil De Matar 1990
 https://content.jwplatform.com/videos/Rx7rsW9U-GOJLNWjk.mp4
