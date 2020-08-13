@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 type="video"-logo="https://bit.ly/2PJuQNM" group-title="LANCAMENTOS" ,Sem Misericordia 2019
+https://archive.org/download/querido-john-hd/Sem%20Misericordia%202019.mp4
+
 #EXTINF:-1 type="video"-logo="https://bit.ly/3feotfM" group-title="LANCAMENTOS" ,Superman Red Son 2020
 https://archive.org/download/dirty-dancing-o-musical-2017/Superman%20Red%20Son%202020.mp4
 
@@ -319,20 +322,12 @@ https://www.googleapis.com/drive/v3/files/1R1diJCPNQGA96gKekopo9RbIFUzfHKnI?alt=
 #EXTINF:-1 type="video"-logo="https://bit.ly/2ZSUiVH" group-title="FCCAO" ,Os Guardiões 2017
 https://archive.org/serve/os.-guardioes.-2017.720p/Os.Guardi%C3%B5es.2017.720p.mp4
 
+#EXTINF:-1 type="video"-logo="https://bit.ly/2Fak54T" group-title="ROMANCE" ,Querido John 2010
+https://archive.org/download/querido-john-hd/Querido%20John%20HD.mp4
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 type="video"-logo="https://bit.ly/31SAfrA" group-title="ACAO" ,A Morte e Vida de Bobby Z 2007
+https://archive.org/download/querido-john-hd/A%20Morte%20e%20Vida%20de%20Bobby%20Z%202007.mp4
 
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E01
