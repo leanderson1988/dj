@@ -53,9 +53,112 @@ http://srvx.io:80/live/xx1AW/gC6qd/36648.m3u8
 http://srvx.io:80/live/xx1AW/gC6qd/36649.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | Esportes",DAZN 6 HD
 http://srvx.io:80/live/xx1AW/gC6qd/36650.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes",EI Plus 1 HD
+http://srvx.io:80/live/xx1AW/gC6qd/29887.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes",EI Plus 2 HD
+http://srvx.io:80/live/xx1AW/gC6qd/29886.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes",EI Plus 3 HD
+http://srvx.io:80/live/xx1AW/gC6qd/29885.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes",EI Plus 4 HD
+http://srvx.io:80/live/xx1AW/gC6qd/29884.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes",EI Plus 5 HD
+http://srvx.io:80/live/xx1AW/gC6qd/29883.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Esportes",EI Plus 6 HD
+http://srvx.io:80/live/xx1AW/gC6qd/29882.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD
+http://srvx.io:80/live/xx1AW/gC6qd/2004.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+http://srvx.io:80/live/xx1AW/gC6qd/25458.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | Alternativos",ESPN 2 FHD [H265] [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/29394.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 HD
+http://srvx.io:80/live/xx1AW/gC6qd/1846.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | Alternativos",ESPN 2 HD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2379.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 SD
+http://srvx.io:80/live/xx1AW/gC6qd/1847.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | Alternativos",ESPN 2 SD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2196.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K",ESPN 4K [H265]
+http://srvx.io:80/live/xx1AW/gC6qd/28861.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD
+http://srvx.io:80/live/xx1AW/gC6qd/1948.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | Alternativos",ESPN Brasil FHD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/45146.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD [H265]
+http://srvx.io:80/live/xx1AW/gC6qd/25387.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | Alternativos",ESPN Brasil FHD [H265] [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/29396.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil HD
+http://srvx.io:80/live/xx1AW/gC6qd/1844.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | Alternativos",ESPN Brasil HD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2378.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil SD
+http://srvx.io:80/live/xx1AW/gC6qd/1845.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | Alternativos",ESPN Brasil SD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2195.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD
+http://srvx.io:80/live/xx1AW/gC6qd/2003.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | Alternativos",ESPN Extra FHD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/45147.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD [H265]
+http://srvx.io:80/live/xx1AW/gC6qd/25457.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | Alternativos",ESPN Extra FHD [H265] [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/29393.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra HD
+http://srvx.io:80/live/xx1AW/gC6qd/1842.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | Alternativos",ESPN Extra HD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2377.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra SD
+http://srvx.io:80/live/xx1AW/gC6qd/1843.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD
+http://srvx.io:80/live/xx1AW/gC6qd/1947.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | Alternativos",ESPN FHD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/45148.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD [H265]
+http://srvx.io:80/live/xx1AW/gC6qd/25386.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | Alternativos",ESPN FHD [H265] [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/29395.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN HD
+http://srvx.io:80/live/xx1AW/gC6qd/1841.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | Alternativos",ESPN HD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2376.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN SD
+http://srvx.io:80/live/xx1AW/gC6qd/1848.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | Alternativos",ESPN SD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2194.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | Alternativos",ESPN2 FHD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/45149.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
+http://srvx.io:80/live/xx1AW/gC6qd/1933.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere Clubes FHD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/45194.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://srvx.io:80/live/xx1AW/gC6qd/25424.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere Clubes FHD [H265] [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/29441.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
+http://srvx.io:80/live/xx1AW/gC6qd/1750.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere Clubes HD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2336.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
+http://srvx.io:80/live/xx1AW/gC6qd/1751.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere Clubes SD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2158.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://srvx.io:80/live/xx1AW/gC6qd/1962.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
+http://srvx.io:80/live/xx1AW/gC6qd/25406.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Alternativos",TNT Series FHD [H265] [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/29427.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series HD
+http://srvx.io:80/live/xx1AW/gC6qd/1702.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Alternativos",TNT Series HD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2317.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series SD
+http://srvx.io:80/live/xx1AW/gC6qd/1703.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Alternativos",TNT Series SD [Alter]
+http://srvx.io:80/live/xx1AW/gC6qd/2140.m3u8
 
 
 
