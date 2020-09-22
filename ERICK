@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 type="video"-logo="http://stream.lhmtv.cf" group-title="LIVE " ,DEEJAY LEE 1
+https://www.googleapis.com/drive/v3/files/1SRIJgFoGjKYaeq8u9zg7UnVMhpwvpSy7?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video"-logo="http://stream.lhmtv.cf" group-title="LIVE " ,DEEJAY LEE 2
+https://www.googleapis.com/drive/v3/files/1WXpvfsPgCudo3q-ZgqcHndz4zuzR88De?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 type="video"-logo="https://bit.ly/3feotfM" group-title="LANCAMENTOS" ,Superman Red Son 2020
 https://archive.org/download/dirty-dancing-o-musical-2017/Superman%20Red%20Son%202020.mp4
 
