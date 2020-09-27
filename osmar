@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 type="video"-logo="http://stream.lhmtv.cf" group-title="LIVE " ,DEEJAY LEE 1
+https://www.googleapis.com/drive/v3/files/1SRIJgFoGjKYaeq8u9zg7UnVMhpwvpSy7?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video"-logo="http://stream.lhmtv.cf" group-title="LIVE " ,DEEJAY LEE 2
+https://www.googleapis.com/drive/v3/files/1WXpvfsPgCudo3q-ZgqcHndz4zuzR88De?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
+#EXTINF:-1 type="video"-logo="http://stream.lhmtv.cf" group-title="LIVE " ,DEEJAY LEE 3
+https://www.googleapis.com/drive/v3/files/12SaOBDWUesCT6cAvffJpGa8Ywiq9-UXO?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 1 2008
 https://content.jwplatform.com/videos/N5Eq9x32-nJ2q6WN3.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 2 Lua Nova 2009
