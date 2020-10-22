@@ -1,87 +1,78 @@
 #EXTM3U
-#EXTINF:-1 type="video"-logo="http://stream.lhmtv.cf" group-title="LIVE " ,DEEJAY LEE 1
-https://www.googleapis.com/drive/v3/files/1SRIJgFoGjKYaeq8u9zg7UnVMhpwvpSy7?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 type="video"-logo="http://stream.lhmtv.cf" group-title="LIVE " ,DEEJAY LEE 2
-https://www.googleapis.com/drive/v3/files/1WXpvfsPgCudo3q-ZgqcHndz4zuzR88De?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 type="video"-logo="http://stream.lhmtv.cf" group-title="LIVE " ,DEEJAY LEE 3
-https://www.googleapis.com/drive/v3/files/12SaOBDWUesCT6cAvffJpGa8Ywiq9-UXO?alt=media&key=AIzaSyBapX1uEn1bBgTpCdHOZchDQj7TYFUxeuA
-
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Café e Kareem 2020
-https://content.jwplatform.com/videos/ioaFewgE-jWmiXxhn.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Cidade Do Crime 2017
-https://content.jwplatform.com/videos/p3w2fCvZ-jWmiXxhn.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Emma 2020
-https://content.jwplatform.com/videos/xdARcwW9-jWmiXxhn.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Chamado Da Floresta 2020
-https://content.jwplatform.com/videos/gq5z2OYk-hK28dEPb.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Terremoto 2020
-https://content.jwplatform.com/videos/PRMHg0f0-hK28dEPb.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Doutor Doliro 2020
-https://content.jwplatform.com/videos/65jdK06s-RWNAGREF.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Capturado 2020
+https://content.jwplatform.com/videos/8pXRBZDp-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Do Fundo Do Mar 3 2020
+https://content.jwplatform.com/videos/WWxr5BWv-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Como Caes E Gatos 3 Peludos Unidos 2020
+https://content.jwplatform.com/videos/616Ryx09-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Exterminador Cavaleiros E Dragoes 2020
+https://content.jwplatform.com/videos/fbuHg8PQ-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,A Lenda De Thor 2020
+https://content.jwplatform.com/videos/x7l6HpXZ-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Um Lobo Em Pele De Cordeiro 2 2020
+https://content.jwplatform.com/videos/guhUtr3G-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Sargento Stubby 2018
+https://content.jwplatform.com/videos/CDAXMaVL-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Tina E Teo A Pedra Encantada 2019
+https://content.jwplatform.com/videos/fInbc9kl-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Sadako Capítulo Final 2019
+https://content.jwplatform.com/videos/wXQu0tII-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,S W A T Forca Letal 2020
+https://content.jwplatform.com/videos/Hdery8yj-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Pets Unidos 2020
+https://content.jwplatform.com/videos/6LvvodA6-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Scooby O Filme 2020
+https://content.jwplatform.com/videos/JuqYhOfB-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Homem Invisivel 2020
+https://content.jwplatform.com/videos/70nmsrVm-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Heroi Cuco 2019
+https://content.jwplatform.com/videos/JL2kLfST-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Os Irmaos Sisters 2018
+https://content.jwplatform.com/videos/tneYp1Y0-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Sem Misericordia 2019
+https://content.jwplatform.com/videos/aQyFS6vM-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Na Rota Do Tráfico 2020
+https://content.jwplatform.com/videos/OPJYQEIi-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Grito 2020
+https://content.jwplatform.com/videos/04AYcsE7-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Mortal Kombat A Vinganca De Scorpion 2020
+https://content.jwplatform.com/videos/vGsVHVoT-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Mulan 2020
+https://content.jwplatform.com/videos/lQq3RTxL-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Marnie E Os Amigos 2019
+https://content.jwplatform.com/videos/NA48FNfh-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Line Walker 2 Espião Invisível 2019
+https://content.jwplatform.com/videos/IS0BgrJp-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Hospedagem Mortal 2019
+https://content.jwplatform.com/videos/gRP8K4bv-1n7nscrk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Ilha Da Fantasia 2020
+https://content.jwplatform.com/videos/y6X5YEZr-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Grito Silencioso 2020
+https://content.jwplatform.com/videos/TEJBfr1e-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Aprendiz De Espian 2020
+https://content.jwplatform.com/videos/iye5auuQ-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Encurralados 2016
+https://content.jwplatform.com/videos/W3P4iF5y-1n7nscrk.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,1918 A Batalha De Kruty 2020
 https://content.jwplatform.com/videos/y635TuqW-RWNAGREF.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Resgate 2020
-https://content.jwplatform.com/videos/P2KfKQNi-EEpxgbJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Milagre Na Cela 7 2019
+https://content.jwplatform.com/videos/aFnWYBtw-1n7nscrk.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Maria E Joao O Conto Das Bruxas 2020
 https://content.jwplatform.com/videos/haeBwthW-EEpxgbJg.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Sonic 2020
-https://content.jwplatform.com/videos/qzV6YSPl-GOJLNWjk.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,1917 2019
 https://content.jwplatform.com/videos/vYBf7DYO-s8dD2pdu.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Bloodshot 2020
-https://content.jwplatform.com/videos/FzGv6lT9-NtbRVC3C.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Jumanji Proxima Fase 2020
-https://content.jwplatform.com/videos/iAjlA278-NtbRVC3C.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Tripla Ameaça 2020
-https://content.jwplatform.com/videos/9Noni916-NtbRVC3C.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Troco Em Dobro 2020
-https://content.jwplatform.com/videos/O0TrFrgt-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,A Dama EO Vagabundo 2020
-https://content.jwplatform.com/videos/WnnLfHgL-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Bad Boys 3 2020
-https://content.jwplatform.com/videos/m6NUvuae-lUWRZ73X.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Frozen 2 2019
-https://content.jwplatform.com/videos/2fQq6P5f-Fj6mOqH7.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Arlequina 2020
-https://content.jwplatform.com/videos/bJ8vN9Rf-uppaA2vD.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Togo 2019
-https://content.jwplatform.com/videos/D96HASnA-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Zombies 2 2020
 https://content.jwplatform.com/videos/oUO2qVPD-lUWRZ73X.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Jogue Ou Morra 2019
 https://content.jwplatform.com/videos/mHeFViHd-IK5vEmiy.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Exterminador Do Futuro Destino Sombrio 2020
-https://content.jwplatform.com/videos/FK9fO3Ra-x08hJpYs.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Invasao Ao Servico Secreto 2020
-https://content.jwplatform.com/videos/xmWtpI57-M33kuJwh.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Amarelo é O Novo Preto 2019
-https://content.jwplatform.com/videos/NYv44wlg-9KXv6jyv.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Ajudantes Do Papai Noel 2019
-https://content.jwplatform.com/videos/dUImX0oO-xosTtpcC.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Abigail E A Cidade Proibida 2019
-https://content.jwplatform.com/videos/I4Tiy8sy-M33kuJwh.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Esquadrão 6 2019
-https://content.jwplatform.com/videos/VckY1Ad7-ABgby8qa.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Cores Da Justica 2019
-https://content.jwplatform.com/videos/odaSoqZn-lUWRZ73X.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,As Aventuras De Errol Flynn 2018
-https://content.jwplatform.com/videos/9t1KU78W-5TSzydBj.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Coragem Para Vencer 2019
 https://content.jwplatform.com/videos/ePqjXQte-Yd4xCB27.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Andar Montar Rodeio 2019
 https://content.jwplatform.com/videos/kmuQE39d-Yd4xCB27.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Mais Que Vencedores 2019
 https://content.jwplatform.com/videos/5ZqgiVZY-7P6b20I9.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Dragon Quest Sua História 2020
-https://content.jwplatform.com/videos/cBIlVODj-ABgby8qa.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Era Uma Vez Em Hollywood 2019
 https://content.jwplatform.com/videos/3PQz8rNf-ABgby8qa.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Abominávell 2020
-https://content.jwplatform.com/videos/bkIllOf2-0uvDYoAG.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Timmy Failure Mistakes Were Made 2020
-https://content.jwplatform.com/videos/1cUNL5HT-7qlVbwrC.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Páginas Da Morte 2019
 https://content.jwplatform.com/videos/s29NgkKS-7qlVbwrC.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Era Uma Vez Anastasia 2019
@@ -92,10 +83,6 @@ https://content.jwplatform.com/videos/kZekOCDk-ZSblfgEP.mp4
 https://content.jwplatform.com/videos/Wu9UVBNu-2TdoDbn0.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Luce 2019
 https://content.jwplatform.com/videos/8V9Ejn2J-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Capitao Dentes De Sabre E O Diamante Magico 2020
-https://content.jwplatform.com/videos/0QRIxzoQ-2TdoDbn0.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Crime Sem Saida 2019
-https://content.jwplatform.com/videos/ITkPm6MX-bacgYk0M.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Instinto Predador 2019
 https://content.jwplatform.com/videos/hOEcUHxJ-NtbRVC3C.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Odio Que Voce Semeia 2019
@@ -105,42 +92,24 @@ https://content.jwplatform.com/videos/DqnHIi3m-NwnrkkSt.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Pacto 2018
 https://content.jwplatform.com/videos/H0De5cB6-s8dD2pdu.mp4
 
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Ritmo da Vingança 2020
-https://content.jwplatform.com/videos/5evuTvxM-s8dD2pdu.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3izrKZK" group-title="DESENHO LEGO" ,Batman O Filme 2017
-https://archive.org/details/spirit-o-corcel-indomave-2002/LEGO+Batman+O+Filme+2017.mp4
-
-#EXTINF:-1 type="video"-logo="https://i.imgur.com/H7G2Swh.jpg" group-title="DESENHO LEGO" ,Jurassic World A Fuga do Indominus Rex 2016
-https://archive.org/download/spirit-o-corcel-indomave-2002/LEGO%20Jurassic%20World%20A%20Fuga%20do%20Indominus%20Rex%202016.ia.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2VQvPyW" group-title="DESENHO LEGO" ,Liga da Justiça   O Ataque da Legião do Mal 2015
-https://archive.org/download/spirit-o-corcel-indomave-2002/LEGO%20Liga%20da%20Justi%C3%A7a%20%20%20O%20Ataque%20da%20Legi%C3%A3o%20do%20Mal%202015.mp4
-
-#EXTINF:-1 type="video"-logo="https://i.imgur.com/QStql4m.jpg" group-title="DESENHO LEGO" ,Scooby-Doo Hollywood Assombrada 2016
-https://archive.org/download/spirit-o-corcel-indomave-2002/LEGO%20Scooby-Doo%20Hollywood%20Assombrada%202016.ia.mp4
-
-#EXTINF:-1 type="video"-logo="https://i.imgur.com/bmltnDe.jpg" group-title="DESENHO LEGO" ,Super Heróis   Liga da Justiça vs  Liga Bizarra 2015
-https://archive.org/download/spirit-o-corcel-indomave-2002/LEGO%20Super%20Her%C3%B3is%20%20%20Liga%20da%20Justi%C3%A7a%20vs%20%20Liga%20Bizarra%202015.ia.mp4
-
-#EXTINF:-1 type="video"-logo="https://i.imgur.com/t9TfjXA.jpg" group-title="DESENHO LEGO" ,Uma Aventura Lego 2014
-https://archive.org/download/spirit-o-corcel-indomave-2002/Uma%20Aventura%20Lego%202014.mp4
-
-#EXTINF:-1 type="video"-logo="https://" group-title="AVENTURA" ,Crepusculo 1 2008
-https://content.jwplatform.com/videos/KnIteJsi-BvF3GI2K.mp4
-
-#EXTINF:-1 type="video"-logo="https://" group-title="AVENTURA" ,Crepusculo 2 Lua Nova  2009
-https://content.jwplatform.com/videos/ksvlGpEj-BvF3GI2K.mp4
-
-#EXTINF:-1 type="video"-logo="https://" group-title="AVENTURA" ,Crepusculo 3 Eclipse  2010
-https://content.jwplatform.com/videos/MpxOFyDe-BvF3GI2K.mp4
-
-#EXTINF:-1 type="video"-logo="https://" group-title="AVENTURA" ,Crepusculo 4 Amanhecer PT.1   2011
-https://content.jwplatform.com/videos/PuaZAywT-BvF3GI2K.mp4
-
-#EXTINF:-1 type="video"-logo="https://" group-title="AVENTURA" ,Crepusculo 5 Amanhecer PT.2   2012
-https://content.jwplatform.com/videos/t5DB2JVf-BvF3GI2K.mp4
-
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Chamado Da Floresta 2020
+https://content.jwplatform.com/videos/gq5z2OYk-hK28dEPb.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Doutor Doliro 2020
+https://content.jwplatform.com/videos/65jdK06s-RWNAGREF.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Sonic 2020
+https://content.jwplatform.com/videos/qzV6YSPl-GOJLNWjk.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Dragon Quest Sua História 2020
+https://content.jwplatform.com/videos/cBIlVODj-ABgby8qa.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Dama EO Vagabundo 2020
+https://content.jwplatform.com/videos/WnnLfHgL-2TdoDbn0.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Togo 2019
+https://content.jwplatform.com/videos/D96HASnA-Ay5r7f3Q.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Abigail E A Cidade Proibida 2019
+https://content.jwplatform.com/videos/I4Tiy8sy-M33kuJwh.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,As Aventuras De Errol Flynn 2018
+https://content.jwplatform.com/videos/9t1KU78W-5TSzydBj.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Timmy Failure Mistakes Were Made 2020
+https://content.jwplatform.com/videos/1cUNL5HT-7qlVbwrC.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Z A Cidade Perdida 2017
 https://content.jwplatform.com/videos/SeRE7c73-jWmiXxhn.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Descendentes 1 2015
@@ -207,6 +176,8 @@ https://content.jwplatform.com/videos/ervai30h-zJfxYVCz.mp4
 https://content.jwplatform.com/videos/LfhyZxYx-zJfxYVCz.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Jumanji 2018
 https://content.jwplatform.com/videos/Qg7mKDNN-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Jumanji 2020
+https://content.jwplatform.com/videos/iAjlA278-NtbRVC3C.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Jumanji 1995
 https://content.jwplatform.com/videos/6eDrGsaF-zJfxYVCz.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Zathura 2005
@@ -309,271 +280,6 @@ https://content.jwplatform.com/videos/8oHp9Yzd-nIPYi4xr.mp4
 https://content.jwplatform.com/videos/FzyIVo2T-nIPYi4xr.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Zé Colmeia 2008
 https://content.jwplatform.com/videos/nqaXLPfN-WRO9AFa5.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E01
-https://archive.org/serve/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E01.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E02
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E02.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E03
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E03.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E04
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E04.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E05
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E05.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E06
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E06.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E07
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E07.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E08
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E08.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E09
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E09.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E10
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E10.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E11
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E11.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S01E12
-https://archive.org/download/kengan-ashura-s-01-e-09/Kengan%20Ashura%20S01E12.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E13
-https://archive.org/serve/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%201.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E14
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%202.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E15
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%203.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E16
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%204.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E17
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%205.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E18
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%206.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E19
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%207.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E20
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%208.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E21
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%209.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E22
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%2010.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E23
-https://archive.org/download/kengan-ashura-2-ep-3/KENGAN%20ASHURA%202%20Ep%2011.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31NB9XO" group-title="ANIME" ,Kengan Ashura S02E24
-https://archive.org/download/baki-o-campeao-20/KENGAN%20ASHURA%202%20%2012.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E01
-https://archive.org/serve/baki-s-01-e-01/Baki%20S01E01.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E02
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E02.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E03
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E03.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E04
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E04.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E05
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E05.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E06
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E06.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E07
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E07.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E08
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E08.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E09
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E09.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E10
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E10.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E11
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E11.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E12
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E12.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E13
-https://archive.org/download/baki-s-01-e-01/Baki%20S01E13.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E14
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2014.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E15
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2015.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E16
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2016.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E17
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2017.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E18
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2018.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E19
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2019.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E20
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2020.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E21
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2021.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E22
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2022.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E23
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2023.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E24
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2024.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E25
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2025.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S01E26
-https://archive.org/download/baki-o-campeao-20/Baki%20-%20O%20Campe%C3%A3o%20%2026.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E27
-https://archive.org/download/ben-10_202007/Baki%20S02E1.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E28
-https://archive.org/download/ben-10_202007/Baki%20S02E2.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E29
-https://archive.org/download/ben-10_202007/Baki%20S02E3.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E30
-https://archive.org/download/ben-10_202007/Baki%20S02E4.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E31
-https://archive.org/download/ben-10_202007/Baki%20S02E5.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E32
-https://archive.org/download/ben-10_202007/Baki%20S02E6.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E33
-https://archive.org/download/ben-10_202007/Baki%20S02E7.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E34
-https://archive.org/download/ben-10_202007/Baki%20S02E8.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E35
-https://archive.org/download/ben-10_202007/Baki%20S02E9.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E36
-https://archive.org/download/ben-10_202007/Baki%20S02E10.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E37
-https://archive.org/download/ben-10_202007/Baki%20S02E11.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E38
-https://archive.org/download/ben-10_202007/Baki%20S02E12.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/38GMUR2" group-title="ANIME" ,Baki S02E39
-https://archive.org/download/ben-10_202007/Baki%20S02E13.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E01
-https://archive.org/serve/super-patos-s-01-e-21/SUPER%20PATOS%20S01E01.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E02
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E02.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E05
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E05.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E06
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E06.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E09
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E09.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E12
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E12.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E13
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E13.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E15
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E15.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E17
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E17.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E19
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E19.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E21
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E21.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3j8QIzs" group-title="ANIME" ,SUPER PATOS S01E25
-https://archive.org/download/super-patos-s-01-e-21/SUPER%20PATOS%20S01E25.mp4
-
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 1 1996
-https://archive.org/serve/13-subvertido/1%20-%20O%20Kombat%20Come%C3%A7a.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 2 1996
-https://archive.org/download/13-subvertido/2%20-%20A%20Picada%20de%20Scorpion.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 3 1996
-https://ia601505.us.archive.org/27/items/13-subvertido/3%20-%20L%C3%ADngua%20%C3%81cida.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 4 1996
-https://archive.org/download/13-subvertido/4%20-%20Esfole%20Profundamente.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 5 1996
-https://archive.org/download/13-subvertido/5%20-%20Velhos%20Amigos%20Nunca%20Morrem.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 6 1996
-https://archive.org/download/13-subvertido/6%20-%20Vermelho%20Familiar.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 7 1996
-https://archive.org/download/13-subvertido/7%20-%20Caindo%20nas%20Gra%C3%A7as.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 8 1996
-https://ia601505.us.archive.org/27/items/13-subvertido/8%20-%20O%20Segredo%20de%20Quan%20Chi.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 9 1996
-https://ia601505.us.archive.org/27/items/13-subvertido/9%20-%20Ressurrei%C3%A7%C3%A3o.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 10 1996
-https://archive.org/download/13-subvertido/10%20%20-%20Espadas%20de%20Ilkan.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 11 1996
-https://archive.org/download/13-subvertido/11%20-%20Indeniza%C3%A7%C3%A3o.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 12 1996
-https://archive.org/download/13-subvertido/12%20-%20Abandonado.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3h5ibAe" group-title="ANIME" ,MORTAL COMBATE 13 1996
-https://archive.org/download/13-subvertido/13%20-%20Subvertido.mp4
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="CORRIDA" ,Kart Nervoso 2020
 https://content.jwplatform.com/videos/0RDgSate-bacgYk0M.mp4
@@ -741,33 +447,6 @@ https://content.jwplatform.com/videos/80AwGWxw-7qlVbwrC.mp4
 https://content.jwplatform.com/videos/AYT5X9Kv-7qlVbwrC.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Carga Pesada" ,Carga Pesada S01ep12
 https://content.jwplatform.com/videos/4FZSxCfe-LElI8svP.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2ZylERU" group-title="NOVELA" ,AGUA VIVA 1 1980
-https://archive.org/download/novela-agua-viva-1/NOVELA%20AGUA%20VIVA%201.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2ZylERU" group-title="NOVELA" ,AGUA VIVA 2 1980
-https://archive.org/download/novela-agua-viva-1/NOVELA%20AGUA%20VIVA%202.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 1 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E001.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 2 1999
-https://ia601505.us.archive.org/13/items/malhacao-s-06-e-001/Malhacao%20S06E002.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 3 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E003.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 4 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E004.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 5 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E005.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 6 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E006.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 7 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E007.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 8 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E008.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 9 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E009.mp4
-#EXTINF:-1 type="video"-logo="https://bit.ly/2WvhGrc" group-title="NOVELA" ,MALHAÇÃO 10 1999
-https://archive.org/download/malhacao-s-06-e-001/Malhacao%20S06E010.mp4
 
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Mazzaropi" ,Em No Paraíso Das Solteironas 1968
 https://content.jwplatform.com/videos/36ouj1f8-0HOcX8n1.mp4
@@ -1129,9 +808,6 @@ https://content.jwplatform.com/videos/16xJbo5Q-bWtniFnP.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman 4 1997
 https://content.jwplatform.com/videos/XfZ7UMiy-bWtniFnP.mp4
 
-#EXTINF:-1 type="video"-logo="https://bit.ly/2ZSUiVH" group-title="FCCAO" ,Os Guardiões 2017
-https://archive.org/serve/os.-guardioes.-2017.720p/Os.Guardi%C3%B5es.2017.720p.mp4
-
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,Projeto Gemini 2019 
 https://content.jwplatform.com/videos/xB50Yy6i-l5r3qFf5.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,Perdido Em Marte 2015
@@ -1218,6 +894,8 @@ https://content.jwplatform.com/videos/vJHrep7o-PJdS2QxM.mp4
 https://content.jwplatform.com/videos/J5rIZOjM-PJdS2QxM.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,Twister 1996
 https://content.jwplatform.com/videos/kiJFbVOl-nV9UHn96.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,Terremoto 2020
+https://content.jwplatform.com/videos/PRMHg0f0-hK28dEPb.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,O Dia Depois De Amanhã 2004
 https://content.jwplatform.com/videos/b15qm0wm-nV9UHn96.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,O Inferno De Dante 1997
@@ -1350,7 +1028,49 @@ https://content.jwplatform.com/videos/5wKHCchf-XP4H4gai.mp4
 https://content.jwplatform.com/videos/DHaQKVLP-XP4H4gai.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,Jumper 2008
 https://content.jwplatform.com/videos/v34AZbTS-XP4H4gai.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,O Homem Sem Sombra 1 2000
+https://content.jwplatform.com/videos/TLpHDWZX-jG69wtrL.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,O Homem Sem Sombra 2 2007
+https://content.jwplatform.com/videos/ECc6LdwC-yNtZ8ayZ.mp4
 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Bloodshot 2020
+https://content.jwplatform.com/videos/FzGv6lT9-NtbRVC3C.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Tripla Ameaça 2020
+https://content.jwplatform.com/videos/9Noni916-NtbRVC3C.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Troco Em Dobro 2020
+https://content.jwplatform.com/videos/O0TrFrgt-2TdoDbn0.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Resgate 2020
+https://content.jwplatform.com/videos/P2KfKQNi-EEpxgbJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,A Queima Roupa 2019
+https://content.jwplatform.com/videos/3HEh5Hin-yNtZ8ayZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Invasao Ao Servico Secreto 2020
+https://content.jwplatform.com/videos/xmWtpI57-M33kuJwh.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Esquadrão 6 2019
+https://content.jwplatform.com/videos/VckY1Ad7-ABgby8qa.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Cores Da Justica 2019
+https://content.jwplatform.com/videos/odaSoqZn-lUWRZ73X.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,A Queima Roupa 2019
+https://content.jwplatform.com/videos/3HEh5Hin-jG69wtrL.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Shaft 2019
+https://content.jwplatform.com/videos/P71Qswsf-jG69wtrL.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Resgate Mortal 2019
+https://content.jwplatform.com/videos/jbsn0GC1-yNtZ8ayZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Missão No Mar Vermelho 2019
+https://content.jwplatform.com/videos/hqmFvSTe-jG69wtrL.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Hora Das Consequências 2017
+https://content.jwplatform.com/videos/5e0tIgsS-yNtZ8ayZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Nada Santo 2019
+https://content.jwplatform.com/videos/mDnJUXWd-jG69wtrL.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Crime Sem Saida 2019
+https://content.jwplatform.com/videos/ITkPm6MX-bacgYk0M.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,O Ritmo da Vingança 2020
+https://content.jwplatform.com/videos/5evuTvxM-s8dD2pdu.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Café e Kareem 2020
+https://content.jwplatform.com/videos/ioaFewgE-jWmiXxhn.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Cidade Do Crime 2017
+https://content.jwplatform.com/videos/p3w2fCvZ-jWmiXxhn.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Free Fire O Tiroteio 2016
+https://content.jwplatform.com/videos/rD74Jc28-jG69wtrL.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Na Corda Bamba 2019
 https://content.jwplatform.com/videos/GFA6SFqY-tFQBXAyT.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Golpe De Risco 2019
@@ -1423,6 +1143,8 @@ https://content.jwplatform.com/videos/Qb9K1gI2-zSAQjdt3.mp4
 https://content.jwplatform.com/videos/dOqYfasi-zSAQjdt3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Bad Boys 2 2003
 https://content.jwplatform.com/videos/rF3xbGaG-NwnrkkSt.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Bad Boys 3 2020
+https://content.jwplatform.com/videos/m6NUvuae-lUWRZ73X.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Atirador 2007
 https://content.jwplatform.com/videos/Xaj567px-zSAQjdt3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Anjos Da Lei 1 2012
@@ -1519,6 +1241,8 @@ https://content.jwplatform.com/videos/AOoQop66-zSAQjdt3.mp4
 https://content.jwplatform.com/videos/Tm7hFXfA-zSAQjdt3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,O Exterminador Do Futuro 5 2015
 https://content.jwplatform.com/videos/Ec6yNowl-EI71wRcp.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,O Exterminador Do Futuro 6 2020
+https://content.jwplatform.com/videos/FK9fO3Ra-x08hJpYs.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Triplo X 1 2001
 https://content.jwplatform.com/videos/oTKQrG43-q8FTDhka.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Triplo X 2 2005
@@ -1537,6 +1261,8 @@ https://content.jwplatform.com/videos/eir368bk-5TSzydBj.mp4
 https://content.jwplatform.com/videos/XUTBKpSS-zJfxYVCz.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,O Alvo 2 2016
 https://content.jwplatform.com/videos/gXIAU1FO-nV9UHn96.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Carga Explosiva O Legado 2015
+https://content.jwplatform.com/videos/w6kAzxtn-nIPYi4xr.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Carga Explosiva 1 2002
 https://content.jwplatform.com/videos/Fu9ClO0b-NfA09Gih.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Carga Explosiva 2 2005
@@ -1651,8 +1377,6 @@ https://content.jwplatform.com/videos/1y8imWLn-Ay5r7f3Q.mp4
 https://content.jwplatform.com/videos/NYRZU9dl-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Caçadores De Emoção Além Do Limite 2016
 https://content.jwplatform.com/videos/Zss40TGD-nIPYi4xr.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Carga Explosiva O Legado 2015
-https://content.jwplatform.com/videos/w6kAzxtn-nIPYi4xr.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Fique Rico Ou Morra Tentando 2005
 https://content.jwplatform.com/videos/BQsN160U-lUWRZ73X.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Daylight 1996
@@ -2003,24 +1727,6 @@ https://content.jwplatform.com/videos/f902Izpl-2TdoDbn0.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Uma Vida Com Proposta 2017
 https://content.jwplatform.com/videos/NlCnxBGP-zJfxYVCz.mp4
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 1
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%201%20%20720p.mp4
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 2
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%202%20%20720p.mp4
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 3
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%203%20%20720p.mp4
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 4
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%204%20%20720p.mp4
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 5
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%205%20%20%202011.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2YyOdy9" group-title="TERROR" ,Seres Rastejantes 2006
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Seres%20Rastejantes%202006.mp4
-
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Possessão de Maria 2020
 https://content.jwplatform.com/videos/8swbXLJD-jWmiXxhn.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,O Grito 2020
@@ -2247,21 +1953,6 @@ https://content.jwplatform.com/videos/HMXpMcq4-nJ2q6WN3.mp4
 https://content.jwplatform.com/videos/ToQIFRhJ-nJ2q6WN3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Freddy X Jason 2003
 https://content.jwplatform.com/videos/SKA1QUlo-nJ2q6WN3.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3eDuSRZ" group-title="CLASSICO" ,Um Herói de Brinquedo 1996
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Um%20Her%C3%B3i%20de%20Brinquedo%201996.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2YBrGkp" group-title="CLASSICO" ,Um Tira No Jardim Da Infancia 1990
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Um%20Tira%20No%20Jardim%20Da%20Infancia%201990.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2ZfLn06" group-title="CLASSICO" ,Um Tira no Jardim de Infancia 2 2016
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Um%20Tira%20no%20Jardim%20de%20Infancia%202%202016.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3851x0e" group-title="CLASSICO" ,Um Príncipe em Nova York 1988
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Um%20Pr%C3%ADncipe%20em%20Nova%20York%201988.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3g2vst0" group-title="CLASSICO" ,O Rapto do Menino Dourado 1986
-https://archive.org/serve/um-tira-no-jardim-da-infancia-1990/O%20Rapto%20do%20Menino%20Dourado%201986.mp4
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Tira Da Pesada 1 1984
 https://content.jwplatform.com/videos/7Hlnbi4R-hK28dEPb.mp4
@@ -3853,6 +3544,95 @@ https://content.jwplatform.com/videos/NToM8qHq-Dn1zJbUj.mp4
 https://content.jwplatform.com/videos/AFPnLkg0-Dn1zJbUj.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="THE BOYS",1T-E08 THE BOYS
 https://content.jwplatform.com/videos/k795Cgrb-Dn1zJbUj.mp4
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="THE BOYS",2T-E01 THE BOYS
+https://content.jwplatform.com/videos/54ch6fGs-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="THE BOYS",2T-E02 THE BOYS
+https://content.jwplatform.com/videos/tZ9NomWY-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="THE BOYS",2T-E03 THE BOYS
+https://content.jwplatform.com/videos/iaSIIOwZ-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="THE BOYS",2T-E04 THE BOYS
+https://content.jwplatform.com/videos/NcmX8xpm-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="THE BOYS",2T-E05 THE BOYS
+https://content.jwplatform.com/videos/g7NSmL4F-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="THE BOYS",2T-E06 THE BOYS
+https://content.jwplatform.com/videos/3h1THpzj-vwWkUh9I.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jFKE1L" group-title="HANNA " ,HANNA 1T01
+https://content.jwplatform.com/videos/kj51fS5O-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jFKE1L" group-title="HANNA " ,HANNA 1T02
+https://content.jwplatform.com/videos/EodoOyVn-1n7nscrk.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jFKE1L" group-title="HANNA " ,HANNA 1T03
+https://content.jwplatform.com/videos/yvNTRphI-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jFKE1L" group-title="HANNA " ,HANNA 1T04
+https://content.jwplatform.com/videos/DZUURug7-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jFKE1L" group-title="HANNA " ,HANNA 1T05
+https://content.jwplatform.com/videos/GMlpl3vY-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jFKE1L" group-title="HANNA " ,HANNA 1T06
+https://content.jwplatform.com/videos/TnYuNwCS-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jFKE1L" group-title="HANNA " ,HANNA 1T07
+https://content.jwplatform.com/videos/8y34AL8i-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3jFKE1L" group-title="HANNA " ,HANNA 1T08
+https://content.jwplatform.com/videos/8hEo8Uii-vwWkUh9I.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZXNoQi" group-title="HANNA " ,HANNA 2T01
+https://content.jwplatform.com/videos/fwkIIvLi-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZXNoQi" group-title="HANNA " ,HANNA 2T02
+https://content.jwplatform.com/videos/Mg5MOKRC-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZXNoQi" group-title="HANNA " ,HANNA 2T03
+https://content.jwplatform.com/videos/B3358ZaX-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZXNoQi" group-title="HANNA " ,HANNA 2T04
+https://content.jwplatform.com/videos/ksPTGs3G-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZXNoQi" group-title="HANNA " ,HANNA 2T05
+https://content.jwplatform.com/videos/wMWdREwX-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZXNoQi" group-title="HANNA " ,HANNA 2T06
+https://content.jwplatform.com/videos/QFlTlRlw-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZXNoQi" group-title="HANNA " ,HANNA 2T07
+https://content.jwplatform.com/videos/YOoqh0oI-vwWkUh9I.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2ZXNoQi" group-title="HANNA " ,HANNA 2T08
+https://content.jwplatform.com/videos/p88BGgrD-vwWkUh9I.mp4
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e01
+https://content.jwplatform.com/videos/GaCTitIF-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e02
+https://content.jwplatform.com/videos/1B9xBfMg-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e03
+https://content.jwplatform.com/videos/ReESioCh-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e04
+https://content.jwplatform.com/videos/JGAf2c29-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e05
+https://content.jwplatform.com/videos/x3AIhXt2-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e06
+https://content.jwplatform.com/videos/8HY5jJkM-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e07
+https://content.jwplatform.com/videos/0yttAaOI-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e08
+https://content.jwplatform.com/videos/HEiAzT8T-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e09
+https://content.jwplatform.com/videos/8x4pPC1R-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S01e10
+https://content.jwplatform.com/videos/09NG9wGY-vwWkUh9I.mp4
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e01
+https://content.jwplatform.com/videos/3opGZE2a-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e02
+https://content.jwplatform.com/videos/80bwe3GB-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e03
+https://content.jwplatform.com/videos/KXhAKs9w-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e04
+https://content.jwplatform.com/videos/TDLQ4NiB-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e05
+https://content.jwplatform.com/videos/MRO8r1XT-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e06
+https://content.jwplatform.com/videos/F14iUVhZ-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e07
+https://content.jwplatform.com/videos/SlDzJdfD-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e08
+https://content.jwplatform.com/videos/EyThGTSu-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e09
+https://content.jwplatform.com/videos/SFIT9Fde-vwWkUh9I.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Cobra Kai",Cobra Kai S02e10
+https://content.jwplatform.com/videos/yMA4W811-vwWkUh9I.mp4
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="S W A T",1T-EP01 S W A T
 https://content.jwplatform.com/videos/nBRvVNYJ-hK28dEPb.mp4
