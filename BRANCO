@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Attraction 2 A Invasao 2020
+https://content.jwplatform.com/videos/LuNrBdWR-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Meu Amigo Robo 2020
+https://content.jwplatform.com/videos/MmTGS8rL-QUlYAaNZ.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Capturado 2020
 https://content.jwplatform.com/videos/8pXRBZDp-vwWkUh9I.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Do Fundo Do Mar 3 2020
@@ -389,6 +393,34 @@ https://content.jwplatform.com/videos/OvgULsfC-0LVEQQrw.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="NACIONAL" ,O Homem Que Copiava 2003
 https://content.jwplatform.com/videos/BjiNJMty-nJ2q6WN3.mp4
 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Um Herói de Brinquedo 1996
+https://content.jwplatform.com/videos/tf497nfu-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Ace Ventura 1 1994
+https://content.jwplatform.com/videos/htZRM9uH-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Ace Ventura 2 1995
+https://content.jwplatform.com/videos/IjTHhJ1l-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,O Professor Aloprado 1 1996
+https://content.jwplatform.com/videos/Gr0lb43j-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,O Professor Aloprado 2 2000
+https://content.jwplatform.com/videos/Y17NJ2XA-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Dr Dolittle 1 1998
+https://content.jwplatform.com/videos/u9NUoodo-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Dr Dolittle 2 2001
+https://content.jwplatform.com/videos/ND7VamuF-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Dr Dolittle 3 2006
+https://content.jwplatform.com/videos/evBs6dDP-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Um Herói de Brinquedo 1996
+https://content.jwplatform.com/videos/tf497nfu-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Debi & Lóide 1 1994
+https://content.jwplatform.com/videos/BEnKUzok-jG69wtrL.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Debi & Lóide 2 2015
+https://content.jwplatform.com/videos/lVfXOtDh-jG69wtrL.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Do Que As Mulheres Gostam 2000
+https://content.jwplatform.com/videos/mrNwazjP-NtbRVC3C.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Ela é Demais Pra Mim 2010
+https://content.jwplatform.com/videos/fIgYl7Ot-NtbRVC3C.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Tiras Só Que Não 2014
+https://content.jwplatform.com/videos/q7nVhFBq-hK28dEPb.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,A Arte Da Autodefesa 2019
 https://content.jwplatform.com/videos/t4QCPsVC-ABgby8qa.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Brincando Com Fogo 2019
@@ -621,6 +653,8 @@ https://content.jwplatform.com/videos/8AcgRkQq-9KXv6jyv.mp4
 
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Coringa 2019
 https://content.jwplatform.com/videos/U47lsbI8-7qlVbwrC.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Arlequina 2020
+https://content.jwplatform.com/videos/bJ8vN9Rf-uppaA2vD.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Shazam 2019
 https://content.jwplatform.com/videos/D1HBfNz0-8xleGx2D.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,O Homem De Aço 2013
@@ -836,9 +870,6 @@ https://content.jwplatform.com/videos/5wKHCchf-XP4H4gai.mp4
 https://content.jwplatform.com/videos/DHaQKVLP-XP4H4gai.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="FCCAO" ,Jumper 2008
 https://content.jwplatform.com/videos/v34AZbTS-XP4H4gai.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/31SAfrA" group-title="ACAO" ,A Morte e Vida de Bobby Z 2007
-https://archive.org/download/querido-john-hd/A%20Morte%20e%20Vida%20de%20Bobby%20Z%202007.mp4
 
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="ACAO" ,Dificil De Matar 1990
 https://content.jwplatform.com/videos/Rx7rsW9U-GOJLNWjk.mp4
@@ -1419,28 +1450,46 @@ https://content.jwplatform.com/videos/vz6ucoYd-zJfxYVCz.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Jornada Da Vida 2018
 https://content.jwplatform.com/videos/nfbvZtK3-Fj6mOqH7.mp4
 
-#EXTINF:-1 type="video"-logo="https://bit.ly/2YyOdy9" group-title="CLASSICO" ,Seres Rastejantes 2006
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Seres%20Rastejantes%202006.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Eu Sei o que Vocês Fizeram no Verão Passado 1997
-https://archive.org/download/o-professor-aloprado-1996/Eu%20Sei%20o%20que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Eu Ainda Sei O Que Vocês Fizeram No Verão Passado 1998
-https://archive.org/download/o-professor-aloprado-1996/Eu%20Ainda%20Sei%20O%20Que%20Voc%C3%AAs%20Fizeram%20No%20Ver%C3%A3o%20Passado%201998.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 1
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%201%20%20720p.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 2
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%202%20%20720p.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 3
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%203%20%20720p.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 4
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%204%20%20720p.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="TERROR" ,Premonição 5
-https://ia801501.us.archive.org/34/items/premonicao-3-720p/Premoni%C3%A7%C3%A3o%205%20%20%202011.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,EFEITO BORBOLETA 1
-http://144.217.77.29/movies/1085.MKV
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,EFEITO BORBOLETA 2
-http://144.217.77.29/movies/1084.MKV
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,EFEITO BORBOLETA 3
-http://144.217.77.29/movies/1086.MKV
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Seres Rastejantes 2006
+https://content.jwplatform.com/videos/vwK684ra-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Eu Sei o que Vocês Fizeram no Verão Passado 1997
+https://content.jwplatform.com/videos/y8jEDpQO-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Eu Ainda Sei O Que Vocês Fizeram No Verão Passado 1998
+https://content.jwplatform.com/videos/5vK3QUui-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Abismo do Medo 1 2005
+https://content.jwplatform.com/videos/zWvCZU6Y-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Abismo do Medo 2 2009
+https://content.jwplatform.com/videos/MHWs21x7-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Premonição 1 2000
+https://content.jwplatform.com/videos/rugFAS6C-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Premonição 2 2002
+https://content.jwplatform.com/videos/7ZYxypCg-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Premonição 3 2005
+https://content.jwplatform.com/videos/XzNaez5w-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Premonição 4 2009
+https://content.jwplatform.com/videos/KGGZc2Ys-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Premonição 5  2011
+https://content.jwplatform.com/videos/F4fTxPAn-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Pânico na Floresta 1 2003
+https://content.jwplatform.com/videos/Q48KNxvq-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Pânico na Floresta 2 2007
+https://content.jwplatform.com/videos/XuhUfDx6-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Pânico na Floresta 3 2009
+https://content.jwplatform.com/videos/21FGRb6b-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Pânico na Floresta 4 2011
+https://content.jwplatform.com/videos/1ZCaunde-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Pânico na Floresta 5 2012
+https://content.jwplatform.com/videos/pDDQR4g2-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Pânico Na Floresta 6 2015
+https://content.jwplatform.com/videos/ysSh68Sr-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Maldicao Da Sereia 2019
+https://content.jwplatform.com/videos/J40CbnlV-yNtZ8ayZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Possessão de Maria 2020
+https://content.jwplatform.com/videos/8swbXLJD-jWmiXxhn.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,O Grito 2020
+https://content.jwplatform.com/videos/ejP3xIUL-hK28dEPb.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Os Orfaos 2020
+https://content.jwplatform.com/videos/bjFqbJnf-hK28dEPb.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Ameaça Profunda 2020
 https://content.jwplatform.com/videos/Ynz75Wi4-nJ2q6WN3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Natal Sangrento 2020
@@ -1463,8 +1512,30 @@ https://content.jwplatform.com/videos/5KcEibrC-s8dD2pdu.mp4
 https://content.jwplatform.com/videos/uOm1OzKx-x08hJpYs.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,407 O Voo Das Trevas 2015
 https://content.jwplatform.com/videos/tHaAw4gN-58mr8oUs.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Annabelle 1 2014
+https://content.jwplatform.com/videos/xLazZkqn-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Annabelle 2 2017
+https://content.jwplatform.com/videos/zrqxC3N5-NfA09Gih.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Annabelle 3 2019
-https://content.jwplatform.com/videos/iVRKAOwL-jltnTp6k.mp4
+https://content.jwplatform.com/videos/xmHThGqQ-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,It A Coisa 1 2017
+https://content.jwplatform.com/videos/f2sMXhSx-0HOcX8n1.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,It A Coisa 2 2019
+https://content.jwplatform.com/videos/JfwAEzq0-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Cemiterio Maldito
+https://content.jwplatform.com/videos/cJLzgmjI-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Maldicao da Chorona
+https://content.jwplatform.com/videos/xVmi7wZX-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Cadaver
+https://content.jwplatform.com/videos/4VIRpc5i-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Arcade  Voce vai entrar nesse jogo
+https://content.jwplatform.com/videos/yjslaNvD-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Freira
+https://content.jwplatform.com/videos/GortM7AW-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Slender Man Pesadelo Sem Rosto
+https://content.jwplatform.com/videos/TnKc0wPB-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,O Circo dos Horrores
+https://content.jwplatform.com/videos/q6qKfp9W-skL6psfX.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Brinquedo Assassino 2019
 https://content.jwplatform.com/videos/hD1VnwIh-0uvDYoAG.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Cura 2017
@@ -1493,6 +1564,10 @@ https://content.jwplatform.com/videos/uafjVyjD-UQsvBE6L.mp4
 https://content.jwplatform.com/videos/dQrEEoD1-Gml01jdk.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Volta Do Mortos Vivos 1985
 https://content.jwplatform.com/videos/jHHd9FEC-Gml01jdk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Death Note 2017
+https://content.jwplatform.com/videos/rumKJgrw-0HOcX8n1.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,King Cobra 1999
+https://content.jwplatform.com/videos/X5MveerU-0HOcX8n1.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Resident Evil 1 2002
 https://content.jwplatform.com/videos/Oc2mrsFl-0uvDYoAG.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Resident Evil 2 2004
@@ -1503,24 +1578,60 @@ https://content.jwplatform.com/videos/bEAiD4En-0uvDYoAG.mp4
 https://content.jwplatform.com/videos/J16wZIQp-0uvDYoAG.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Resident Evil 5 2012
 https://content.jwplatform.com/videos/Uh5Z0pub-0uvDYoAG.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Resident Evil 6 2017
+https://content.jwplatform.com/videos/yZAYO3N9-0HOcX8n1.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Torre Negra 2017
+https://content.jwplatform.com/videos/kYiBDWK9-0HOcX8n1.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Predador 1 1987
 https://content.jwplatform.com/videos/JO6E7Wza-0uvDYoAG.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Predador 2 1991
 https://content.jwplatform.com/videos/spNtzkIy-0uvDYoAG.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Predadores 2010
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Predador 3 2010
 https://content.jwplatform.com/videos/wKAAMWZk-0uvDYoAG.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Predador 4 2018
+https://content.jwplatform.com/videos/7Ys4iC7r-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Alien Vs Predador 1 2004
 https://content.jwplatform.com/videos/spNtzkIy-0uvDYoAG.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Alien Vs Predador 2 2008
 https://content.jwplatform.com/videos/WBWkmV7q-0uvDYoAG.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Outlander Guerreiro Vs Predador 2009
+https://content.jwplatform.com/videos/O0P6aIpb-NfA09Gih.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Olhos Famintos 1 2001
 https://content.jwplatform.com/videos/rMzVKHNc-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Olhos Famintos 2 2003
 https://content.jwplatform.com/videos/YsAoUkOO-Ay5r7f3Q.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Olhos Famintos 3 2008
+https://content.jwplatform.com/videos/ZNB7BPnh-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Santet O Feitico Do Mal 2019
+https://content.jwplatform.com/videos/VTX5NZ8C-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Overlord da Operação 2019
+https://content.jwplatform.com/videos/KoRUNcbV-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Dead List Sua Hora Chegou 2019
+https://content.jwplatform.com/videos/BAMPzuYL-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Não Olhe 2019
+https://content.jwplatform.com/videos/6YHQErBg-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Caixa De Pássaros 2018
+https://content.jwplatform.com/videos/4H832O1X-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Filho Das Trevas 2019
+https://content.jwplatform.com/videos/e3a6ijKJ-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Anjos da Noite 1 2009
+https://content.jwplatform.com/videos/rjMQGPNW-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Anjos da Noite 2 2006
+https://content.jwplatform.com/videos/Wz3ydySK-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Anjos da Noite 3 2004
+https://content.jwplatform.com/videos/SE0IGUD5-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Anjos da Noite 4 2012
+https://content.jwplatform.com/videos/qUoRvoeg-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Anjos da Noite 5 2017
+https://content.jwplatform.com/videos/kwtrzTji-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Aniquilação 2018
+https://content.jwplatform.com/videos/nGt0YEpt-NfA09Gih.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Spawn O Soldado Do Inferno 1997
 https://content.jwplatform.com/videos/4IWZwKNF-Yd4xCB27.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Sombra EA Escuridão 1996
-https://content.jwplatform.com/videos/yNJrG2SQ-nJ2q6WN3.mp4
+https://content.jwplatform.com/videos/JMqTYC9G-PuyNkur6.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Os Instrumentos Mortais 2013
+https://content.jwplatform.com/videos/I0CYTlsd-8IUV9bjs.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Mosquito Man 2005
 https://content.jwplatform.com/videos/z4cwzsmk-M33kuJwh.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Constantine 2005
@@ -1547,20 +1658,20 @@ https://content.jwplatform.com/videos/pfANS4bS-Ay5r7f3Q.mp4
 https://content.jwplatform.com/videos/3SHaLEU5-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Efeito Borboleta 2004
 https://content.jwplatform.com/videos/VWtzre36-b7xaQJ9z.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Alien 4 A Ressurreição 1997
-https://content.jwplatform.com/videos/ddwBva4b-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Alien 2 O Resgate 1986
 https://content.jwplatform.com/videos/MrHsIUuM-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Alien 3 A Tenente Ripley 1992
 https://content.jwplatform.com/videos/rjl8jbg1-Ay5r7f3Q.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Alien 4 A Ressurreição 1997
+https://content.jwplatform.com/videos/ddwBva4b-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Do Fundo Do Mar 1999
 https://content.jwplatform.com/videos/TwFtntuJ-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Blade 1 1998
 https://content.jwplatform.com/videos/57z9TgEy-ZGwXtlR6.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Blade 3 2004
-https://content.jwplatform.com/videos/yLB0qgCa-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Blade 2 2002
 https://content.jwplatform.com/videos/tUyu7cFb-Ay5r7f3Q.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Blade 3 2004
+https://content.jwplatform.com/videos/yLB0qgCa-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Sobrenatural 1 2010
 https://content.jwplatform.com/videos/2G50RXlw-Ay5r7f3Q.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Sobrenatural 3 2015
@@ -1581,8 +1692,6 @@ https://content.jwplatform.com/videos/32HNhuVN-Ay5r7f3Q.mp4
 https://content.jwplatform.com/videos/sYpXCLI3-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Virús 1999
 https://content.jwplatform.com/videos/Ewd2vD99-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Predador 2018
-https://content.jwplatform.com/videos/7Ys4iC7r-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Van Helsing 2004
 https://content.jwplatform.com/videos/8ZSfAXyX-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Aracnofobia 1990
@@ -1604,21 +1713,12 @@ https://content.jwplatform.com/videos/ToQIFRhJ-nJ2q6WN3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Freddy X Jason 2003
 https://content.jwplatform.com/videos/SKA1QUlo-nJ2q6WN3.mp4
 
-#EXTINF:-1 type="video"-logo="https://bit.ly/3eDuSRZ" group-title="CLASSICO" ,Um Herói de Brinquedo 1996
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Um%20Her%C3%B3i%20de%20Brinquedo%201996.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2YBrGkp" group-title="CLASSICO" ,Um Tira No Jardim Da Infancia 1990
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Um%20Tira%20No%20Jardim%20Da%20Infancia%201990.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/2ZfLn06" group-title="CLASSICO" ,Um Tira no Jardim de Infancia 2 2016
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Um%20Tira%20no%20Jardim%20de%20Infancia%202%202016.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3851x0e" group-title="CLASSICO" ,Um Príncipe em Nova York 1988
-https://archive.org/download/um-tira-no-jardim-da-infancia-1990/Um%20Pr%C3%ADncipe%20em%20Nova%20York%201988.mp4
-
-#EXTINF:-1 type="video"-logo="https://bit.ly/3g2vst0" group-title="CLASSICO" ,O Rapto do Menino Dourado 1986
-https://archive.org/serve/um-tira-no-jardim-da-infancia-1990/O%20Rapto%20do%20Menino%20Dourado%201986.mp4
-
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,O Rapto do Menino Dourado 1986
+https://content.jwplatform.com/videos/UFLshbYx-QUlYAaNZ.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Tira no Jardim de Infancia 2 2016
+https://content.jwplatform.com/videos/2dtaU37B-2wXnJILV.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Príncipe em Nova York 1988
+https://content.jwplatform.com/videos/65kCBflu-2wXnJILV.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Tira Da Pesada 1 1984
 https://content.jwplatform.com/videos/7Hlnbi4R-hK28dEPb.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="CLASSICO" ,Um Tira Da Pesada 2 1987
@@ -1756,13 +1856,6 @@ https://content.jwplatform.com/videos/DGpAM1KH-bacgYk0M.mp4
 https://content.jwplatform.com/videos/1mKE8cMS-bacgYk0M.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes dog" ,Max 2015
 https://content.jwplatform.com/videos/MOn2xTt1-XP4H4gai.mp4
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Trinity Ainda é O Meu Nome 1971
-https://content.jwplatform.com/videos/mayM6CzB-675pwaPV.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,da lhe duro trinity 1972
-https://content.jwplatform.com/videos/lqoif9xc-TTKdHX4c.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="FAROESTE" ,Jonah hex 2010
-https://content.jwplatform.com/videos/0YsR8Tdu-XP4H4gai.mp4
 
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="EPCO" ,A Odisseia 1997
 https://content.jwplatform.com/videos/kHBOJzj7-4D0pIZFY.mp4
@@ -1965,10 +2058,6 @@ https://content.jwplatform.com/videos/3x5nX0Hi-nJ2q6WN3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,Lutar Ou Morrer 1994
 https://content.jwplatform.com/videos/lIVnooFT-nJ2q6WN3.mp4
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Van Damme",CONTATO MORTAL
-https://ia601506.us.archive.org/23/items/o-legionario-1998/Contato%20Mortal.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Van Damme",O Legionário 1998
-https://ia601506.us.archive.org/23/items/o-legionario-1998/O%20Legion%C3%A1rio%201998.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Van Damme",Leão Branco O Lutador Sem Lei 1990
 https://content.jwplatform.com/videos/yrIfhBWH-0HOcX8n1.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Van Damme",Kickboxer O Desafio Do Dragão 1989
@@ -2634,3 +2723,46 @@ https://content.jwplatform.com/videos/2H2xGTEs-ABgby8qa.mp4
 https://content.jwplatform.com/videos/2H2xGTEs-BAZbqnGY.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Dragon Ball fIlmes" ,Dragon Ball 16 Super Broly 2019
 https://content.jwplatform.com/videos/qE4sZIoU-LFARyhm1.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e01 02
+https://content.jwplatform.com/videos/oSJ0d8sW-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e03
+https://content.jwplatform.com/videos/KwPbV8uF-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e04
+https://content.jwplatform.com/videos/12bRE75E-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e05
+https://content.jwplatform.com/videos/8d1NcrMz-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e06
+https://content.jwplatform.com/videos/nqjFirmn-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e07
+https://content.jwplatform.com/videos/DSIR0x7y-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e08
+https://content.jwplatform.com/videos/ZFZf9Es4-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e09
+https://content.jwplatform.com/videos/FEReTKZg-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e10
+https://content.jwplatform.com/videos/tKwv9Msk-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e11
+https://content.jwplatform.com/videos/iA00auJd-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e12
+https://content.jwplatform.com/videos/kYCGGVBa-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e13
+https://content.jwplatform.com/videos/ZH9X4AsK-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e14
+https://content.jwplatform.com/videos/UHZ2WMhV-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e15
+https://content.jwplatform.com/videos/qFNwcLaD-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e16
+https://content.jwplatform.com/videos/HE71fr4L-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e17
+https://content.jwplatform.com/videos/bQ3pXuem-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e18
+https://content.jwplatform.com/videos/oZednvKU-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e19
+https://content.jwplatform.com/videos/PiO0csj0-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e20
+https://content.jwplatform.com/videos/V34I4Ye9-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e21
+https://content.jwplatform.com/videos/1wJkknIW-jPbZ9rIU.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e22
+https://content.jwplatform.com/videos/LxNWAeMR-jPbZ9rIU.mp4
