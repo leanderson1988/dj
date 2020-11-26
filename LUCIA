@@ -3454,11 +3454,14 @@ https://content.jwplatform.com/videos/OrPOyUNg-BeN2HstN.mp4
 https://content.jwplatform.com/videos/AYhFBkcj-BeN2HstN.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T01e08
 https://content.jwplatform.com/videos/72UoHJGX-BeN2HstN.mp4
-
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e01
 https://content.jwplatform.com/videos/ksh7ghag-jDCzjE5N.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e02
 https://content.jwplatform.com/videos/aUCwUMcr-jDCzjE5N.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e03
+https://content.jwplatform.com/videos/hmovx8j1-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e04
+https://content.jwplatform.com/videos/BhYsHRt7-QZ4M1d3x.mp4
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="S W A T",1T-EP01 S W A T
 https://content.jwplatform.com/videos/nBRvVNYJ-hK28dEPb.mp4
@@ -4566,7 +4569,130 @@ https://content.jwplatform.com/videos/UV3dSKBG-jDCzjE5N.mp4
 #EXTINF:-1 type="video"-logo="https://bit.ly/2IDZHep" group-title="Manto & Adaga" ,Manto & Adaga Tp1ep09
 https://content.jwplatform.com/videos/U2s64bto-jDCzjE5N.mp4
 
-#EXTINF:-1 type="video"-logo="https://bit.ly/3pxeqbO" group-title="Terra Nova " ,Terra Nova TP1 EP01 EP02
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep01
+https://content.jwplatform.com/videos/jlFB40lA-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep02
+https://content.jwplatform.com/videos/56xmNhNA-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep03
+https://content.jwplatform.com/videos/Spzq8IYK-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep04
+https://content.jwplatform.com/videos/AZbBlfDr-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep05
+https://content.jwplatform.com/videos/88NSxOGl-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep06
+https://content.jwplatform.com/videos/MjOvVxyx-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep07
+https://content.jwplatform.com/videos/vCf9Zzkq-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep08
+https://content.jwplatform.com/videos/NFjePPZF-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep09
+https://content.jwplatform.com/videos/VKWjLuHb-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep10
+https://content.jwplatform.com/videos/SwcfeYPR-bI6sYdT5.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep01
+https://content.jwplatform.com/videos/aQavFYyO-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep02
+https://content.jwplatform.com/videos/diSZdAvN-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep03
+https://content.jwplatform.com/videos/g1FMmOak-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep04
+https://content.jwplatform.com/videos/Fla9ZqZr-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep05
+https://content.jwplatform.com/videos/84ji0XFw-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep06
+https://content.jwplatform.com/videos/6gXoE8iY-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep07
+https://content.jwplatform.com/videos/gqgio2M6-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep08
+https://content.jwplatform.com/videos/qYwrqYHW-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep09
+https://content.jwplatform.com/videos/rtA6Qez3-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep10
+https://content.jwplatform.com/videos/LHEru94I-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep11
+https://content.jwplatform.com/videos/hjAvxXnX-bI6sYdT5.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2J2kTLi" group-title="Runaways" ,Runaways Tp02ep12
+https://content.jwplatform.com/videos/t2kUgClW-bI6sYdT5.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP01
+https://content.jwplatform.com/videos/uw5BGM0i-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP02
+https://content.jwplatform.com/videos/IynJDdHJ-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP03
+https://content.jwplatform.com/videos/jw1RTzSM-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP04
+https://content.jwplatform.com/videos/pHYcPNgw-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP05
+https://content.jwplatform.com/videos/V6S1Voh5-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP06
+https://content.jwplatform.com/videos/iX74mdbj-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP07
+https://content.jwplatform.com/videos/NMXlvP1T-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP08
+https://content.jwplatform.com/videos/HBlIoCMn-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP09
+https://content.jwplatform.com/videos/21oFKZZ3-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP10
+https://content.jwplatform.com/videos/3YabOeTH-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP11
+https://content.jwplatform.com/videos/az9xB3GL-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP12
+https://content.jwplatform.com/videos/QQdhjtde-nqYyIEVP.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP13
+https://content.jwplatform.com/videos/FkT1pxpb-nqYyIEVP.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP01
+https://content.jwplatform.com/videos/d0DhCBrJ-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP02
+https://content.jwplatform.com/videos/zFJSixpm-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP03
+https://content.jwplatform.com/videos/zZQo4AHf-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP04
+https://content.jwplatform.com/videos/3hlUFlbA-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP05
+https://content.jwplatform.com/videos/XcFe8gWR-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP06
+https://content.jwplatform.com/videos/AZU9aScA-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP07
+https://content.jwplatform.com/videos/gTAvwcOm-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP08
+https://content.jwplatform.com/videos/yrNMgpP8-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP09
+https://content.jwplatform.com/videos/O2EDfodQ-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP10
+https://content.jwplatform.com/videos/JmzzHXHM-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP11
+https://content.jwplatform.com/videos/4Wy6jS9d-QZ4M1d3x.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP01
+https://content.jwplatform.com/videos/KVgRwJKq-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP02
+https://content.jwplatform.com/videos/RUHdMVUz-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP03
+https://content.jwplatform.com/videos/Di6IZKXc-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP04
+https://content.jwplatform.com/videos/3P5fafjs-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP05
+https://content.jwplatform.com/videos/1pWlHBDa-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP06
+https://content.jwplatform.com/videos/9mbUELYB-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP07
+https://content.jwplatform.com/videos/CNlpYMuK-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP08
+https://content.jwplatform.com/videos/9ceNSndW-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP09
+https://content.jwplatform.com/videos/xm5gjEqw-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP10
+https://content.jwplatform.com/videos/JoJ2Yak9-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP11
+https://content.jwplatform.com/videos/zve17p90-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP12
+https://content.jwplatform.com/videos/GQRGz83t-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP13
+https://content.jwplatform.com/videos/sULuRHJx-QZ4M1d3x.mp4
+
+EXTINF:-1 type="video"-logo="https://bit.ly/3pxeqbO" group-title="Terra Nova " ,Terra Nova TP1 EP01 EP02
 https://content.jwplatform.com/videos/haxYxoZM-EiPiTsLT.mp4
 #EXTINF:-1 type="video"-logo="https://bit.ly/3pxeqbO" group-title="Terra Nova " ,Terra Nova Tp1 Ep03
 https://content.jwplatform.com/videos/c1KzHojY-jDCzjE5N.mp4
