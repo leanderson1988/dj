@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Os Novos Mutantes 2020
+https://content.jwplatform.com/videos/8aSNxmGD-q6DicNGI.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Oro A Cidade Perdida 2017
+https://content.jwplatform.com/videos/81bRZ9AT-q6DicNGI.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,A Verdadeira Historia De Ned Kelly 2020
+https://content.jwplatform.com/videos/VOZ25B1H-g3YmY7OO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Artemis Fowl O Mundo Secreto 2020
+https://content.jwplatform.com/videos/pz2Xf4vK-g3YmY7OO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Uma Invenção De Natal 2020
+https://content.jwplatform.com/videos/Keo6KWIz-g3YmY7OO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Grande Ivan 2020
 https://content.jwplatform.com/videos/ShrAd3v2-jDCzjE5N.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Rogue City 2020
@@ -3461,6 +3471,8 @@ https://content.jwplatform.com/videos/aUCwUMcr-jDCzjE5N.mp4
 https://content.jwplatform.com/videos/hmovx8j1-QZ4M1d3x.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e04
 https://content.jwplatform.com/videos/BhYsHRt7-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e05
+https://content.jwplatform.com/videos/EnZMqjpR-q6DicNGI.mp4
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="S W A T",1T-EP01 S W A T
 https://content.jwplatform.com/videos/nBRvVNYJ-hK28dEPb.mp4
@@ -4567,6 +4579,8 @@ https://content.jwplatform.com/videos/AkQdyfJz-jDCzjE5N.mp4
 https://content.jwplatform.com/videos/UV3dSKBG-jDCzjE5N.mp4
 #EXTINF:-1 type="video"-logo="https://bit.ly/2IDZHep" group-title="Manto & Adaga" ,Manto & Adaga Tp1ep09
 https://content.jwplatform.com/videos/U2s64bto-jDCzjE5N.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2IDZHep" group-title="Manto & Adaga" ,Manto & Adaga Tp1ep10
+https://content.jwplatform.com/videos/lLARiiUS-q6DicNGI.mp4
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep01
 https://content.jwplatform.com/videos/jlFB40lA-bI6sYdT5.mp4
