@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="The Witcher" ,The Witcher TP01E01
 https://content.jwplatform.com/videos/daziedGB-PuyNkur6.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="The Witcher" ,The Witcher TP01E02
@@ -272,6 +271,12 @@ https://content.jwplatform.com/videos/72UoHJGX-BeN2HstN.mp4
 https://content.jwplatform.com/videos/ksh7ghag-jDCzjE5N.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e02
 https://content.jwplatform.com/videos/aUCwUMcr-jDCzjE5N.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e03
+https://content.jwplatform.com/videos/hmovx8j1-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e04
+https://content.jwplatform.com/videos/BhYsHRt7-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="MANDALORIANO" ,Mandaloriano T02e05
+https://content.jwplatform.com/videos/EnZMqjpR-q6DicNGI.mp4
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/3ptpsPj" group-title="SectIon Zero" ,Section Zero S01e01
 https://content.jwplatform.com/videos/88ZqkK4Y-jDCzjE5N.mp4
@@ -636,23 +641,23 @@ https://content.jwplatform.com/videos/ZNujUha1-Dn1zJbUj.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",1T-E8 Stranger Things
 https://content.jwplatform.com/videos/98LmfICJ-Dn1zJbUj.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2JIchcU" group-title="Stranger Things",2T-EP1 Stranger Things
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",2T-E1 Stranger Things
 https://content.jwplatform.com/videos/EGFJpcfe-Ur8QqysD.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2JIchcU" group-title="Stranger Things",2T-EP2 Stranger Things
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",2T-E2 Stranger Things
 https://content.jwplatform.com/videos/ITpmycOV-Ur8QqysD.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2JIchcU" group-title="Stranger Things",2T-EP3 Stranger Things
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",2T-E3 Stranger Things
 https://content.jwplatform.com/videos/o7RIuFth-Ur8QqysD.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2JIchcU" group-title="Stranger Things",2T-EP4 Stranger Things
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",2T-E4 Stranger Things
 https://content.jwplatform.com/videos/fWs3nZH0-Ur8QqysD.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2JIchcU" group-title="Stranger Things",2T-EP5 Stranger Things
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",2T-E5 Stranger Things
 https://content.jwplatform.com/videos/XmgwOQSU-Ur8QqysD.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2JIchcU" group-title="Stranger Things",2T-EP6 Stranger Things
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",2T-E6 Stranger Things
 https://content.jwplatform.com/videos/mdt1X3EN-Ur8QqysD.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2JIchcU" group-title="Stranger Things",2T-EP7 Stranger Things
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",2T-E7 Stranger Things
 https://content.jwplatform.com/videos/Z4sUNexu-Ur8QqysD.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2JIchcU" group-title="Stranger Things",2T-EP8 Stranger Things
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",2T-E8 Stranger Things
 https://content.jwplatform.com/videos/bVxfLW33-Ur8QqysD.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/2JIchcU" group-title="Stranger Things",2T-EP9 Stranger Things
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/1ct1.jpg" group-title="Stranger Things",2T-E9 Stranger Things
 https://content.jwplatform.com/videos/X5uK6xCu-Ur8QqysD.mp4
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Prison Break" ,Prison Break T01E01
@@ -743,25 +748,25 @@ https://content.jwplatform.com/videos/0Q61EJzg-Dn1zJbUj.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="serie Van Damme",1T-EP 6 serie Van Damme
 https://content.jwplatform.com/videos/RSOsvtv7-Dn1zJbUj.mp4
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E01
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E01
 https://content.jwplatform.com/videos/vRoMJ7CU-oXtn2fcS.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E02
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E02
 https://content.jwplatform.com/videos/HksOBCTi-oXtn2fcS.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E03
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E03
 https://content.jwplatform.com/videos/Yd5Ysy0J-oXtn2fcS.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E04
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E04
 https://content.jwplatform.com/videos/IYgP5VoY-oXtn2fcS.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E05
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E05
 https://content.jwplatform.com/videos/xdLVWLqU-oXtn2fcS.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E06
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E06
 https://content.jwplatform.com/videos/Ww22saHR-oXtn2fcS.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E07
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E07
 https://content.jwplatform.com/videos/pgLsyNWo-oXtn2fcS.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E08
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E08
 https://content.jwplatform.com/videos/NLRwXkyh-oXtn2fcS.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E09
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E09
 https://content.jwplatform.com/videos/Pv0erN2Y-oXtn2fcS.mp4
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld S01E10
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="WESTWORLD" ,Westworld TP01E10
 https://content.jwplatform.com/videos/gVTzKqR0-oXtn2fcS.mp4
 
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="The 100" ,The 100 S01E01
@@ -968,6 +973,8 @@ https://content.jwplatform.com/videos/AkQdyfJz-jDCzjE5N.mp4
 https://content.jwplatform.com/videos/UV3dSKBG-jDCzjE5N.mp4
 #EXTINF:-1 type="video"-logo="https://bit.ly/2IDZHep" group-title="Manto & Adaga" ,Manto & Adaga Tp1ep09
 https://content.jwplatform.com/videos/U2s64bto-jDCzjE5N.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2IDZHep" group-title="Manto & Adaga" ,Manto & Adaga Tp1ep10
+https://content.jwplatform.com/videos/lLARiiUS-q6DicNGI.mp4
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/2J0PTvp" group-title="Runaways" ,Runaways Tp01ep01
 https://content.jwplatform.com/videos/jlFB40lA-bI6sYdT5.mp4
@@ -1042,6 +1049,33 @@ https://content.jwplatform.com/videos/QQdhjtde-nqYyIEVP.mp4
 #EXTINF:-1 type="video"-logo="https://bit.ly/3pU8lGu" group-title="LUKE CAGE" ,LUKE CAGE TP01EP13
 https://content.jwplatform.com/videos/FkT1pxpb-nqYyIEVP.mp4
 
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e01
+https://content.jwplatform.com/videos/J7934vRE-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e02
+https://content.jwplatform.com/videos/vfwtcdxR-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e03
+https://content.jwplatform.com/videos/KJmhSTd4-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e04
+https://content.jwplatform.com/videos/vJqE6amR-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e05
+https://content.jwplatform.com/videos/mA53SCD4-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e06
+https://content.jwplatform.com/videos/ZjC1MbFD-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e07
+https://content.jwplatform.com/videos/L87sXzhf-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e08
+https://content.jwplatform.com/videos/Yz6MHOSc-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e09
+https://content.jwplatform.com/videos/UQNNPrJs-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e10
+https://content.jwplatform.com/videos/FLAgGIVK-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e11
+https://content.jwplatform.com/videos/ZYI0SLnz-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e12
+https://content.jwplatform.com/videos/s7JFg3CW-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/2I37Ed0" group-title="Punho De Ferro" ,Punho De Ferro TP1e13
+https://content.jwplatform.com/videos/XvxF6mwD-QZ4M1d3x.mp4
+
 #EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP01
 https://content.jwplatform.com/videos/d0DhCBrJ-QZ4M1d3x.mp4
 #EXTINF:-1 type="video"-logo="https://bit.ly/3nUYuhX" group-title="TItANS" ,TItANS TP01EP02
@@ -1091,6 +1125,155 @@ https://content.jwplatform.com/videos/zve17p90-QZ4M1d3x.mp4
 https://content.jwplatform.com/videos/GQRGz83t-QZ4M1d3x.mp4
 #EXTINF:-1 type="video"-logo="https://bit.ly/33bKUyX" group-title="TItANS" ,TItANS TP02EP13
 https://content.jwplatform.com/videos/sULuRHJx-QZ4M1d3x.mp4
+
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP01
+https://content.jwplatform.com/videos/kVbzh2CC-haVWzqYQ.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP02
+https://content.jwplatform.com/videos/oSTO0JwG-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP03
+https://content.jwplatform.com/videos/73O6kbza-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP04
+https://content.jwplatform.com/videos/Oyw7Kj5h-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP05
+https://content.jwplatform.com/videos/G5yXV88F-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP06
+https://content.jwplatform.com/videos/6HCZTXnj-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP07
+https://content.jwplatform.com/videos/kIi4RqUf-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP08
+https://content.jwplatform.com/videos/dhvJX9Dm-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP09
+https://content.jwplatform.com/videos/kFqrT0l1-haVWzqYQ.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP10
+https://content.jwplatform.com/videos/EZ7ruGFy-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP11
+https://content.jwplatform.com/videos/aXtTibbk-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP12
+https://content.jwplatform.com/videos/4zbQyowt-QZ4M1d3x.mp4
+#EXTINF:-1 type="video"-logo="https://bit.ly/39MxoFX" group-title="Batwoman" ,Batwoman TP01EP13
+https://content.jwplatform.com/videos/sCht9J1e-QZ4M1d3x.mp4
+
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP01
+https://content.jwplatform.com/videos/nZ2EhA6C-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP02
+https://content.jwplatform.com/videos/zkHzlRX5-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP03
+https://content.jwplatform.com/videos/tjRUBk1Y-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP04
+https://content.jwplatform.com/videos/LjaUyISH-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP05
+https://content.jwplatform.com/videos/Vxlkn0QI-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP06
+https://content.jwplatform.com/videos/lExRrEw9-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP07
+https://content.jwplatform.com/videos/pJb0bOnt-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP08
+https://content.jwplatform.com/videos/eyAPCs9l-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP09
+https://content.jwplatform.com/videos/IhlcslHx-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP10
+https://content.jwplatform.com/videos/7ThHOMk9-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP11
+https://content.jwplatform.com/videos/KQbnRTqB-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP12
+https://content.jwplatform.com/videos/mozCOLwC-QZ4M1d3x.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3or4cZe" group-title="Constantine" ,ConstantineTP01EP13
+https://content.jwplatform.com/videos/lDvY2e36-QZ4M1d3x.mp4
+
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP01
+https://content.jwplatform.com/videos/WPFULSWN-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP02
+https://content.jwplatform.com/videos/SfewplxT-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP03
+https://content.jwplatform.com/videos/d1MZIMaW-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP04
+https://content.jwplatform.com/videos/wMLuO1Uy-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP05
+https://content.jwplatform.com/videos/68M81bk1-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP06
+https://content.jwplatform.com/videos/LjwjRtRK-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP07
+https://content.jwplatform.com/videos/qUR8sr9b-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP08
+https://content.jwplatform.com/videos/vVL4xNSc-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP09
+https://content.jwplatform.com/videos/OWZC4JS1-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W0kRXf" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp01EP10
+https://content.jwplatform.com/videos/YxPuEYdO-q6DicNGI.mp4
+
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP01
+https://content.jwplatform.com/videos/CjdXekgu-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP02
+https://content.jwplatform.com/videos/SJFgmHaH-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP03
+https://content.jwplatform.com/videos/rfcKqCs7-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP04
+https://content.jwplatform.com/videos/xIqYMbZq-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP05
+https://content.jwplatform.com/videos/hHvNr5Db-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP06
+https://content.jwplatform.com/videos/c6TdCJhn-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP07
+https://content.jwplatform.com/videos/yKnPnNYR-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP08
+https://content.jwplatform.com/videos/xDtIF36Z-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP09
+https://content.jwplatform.com/videos/cX0pE3FF-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/37MSpxz" group-title="Perdidos No EspaCo" ,Perdidos No EspaCo Tp02EP10
+https://content.jwplatform.com/videos/OvVngZeK-q6DicNGI.mp4
+
+EXTINF:-1 type="video"-logo="https://bit.ly/2W3rB6W" group-title="Watchmen" ,Watchmen T01ep01
+https://content.jwplatform.com/videos/Sj4df5nK-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W3rB6W" group-title="Watchmen" ,Watchmen T01ep02
+https://content.jwplatform.com/videos/5rrGGdb8-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W3rB6W" group-title="Watchmen" ,Watchmen T01ep03
+https://content.jwplatform.com/videos/UwspWyU6-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W3rB6W" group-title="Watchmen" ,Watchmen T01ep04
+https://content.jwplatform.com/videos/LEgK8d5I-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W3rB6W" group-title="Watchmen" ,Watchmen T01ep05
+https://content.jwplatform.com/videos/HpCX2z6b-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W3rB6W" group-title="Watchmen" ,Watchmen T01ep06
+https://content.jwplatform.com/videos/zH0Sut31-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W3rB6W" group-title="Watchmen" ,Watchmen T01ep07
+https://content.jwplatform.com/videos/rZZ69y7O-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W3rB6W" group-title="Watchmen" ,Watchmen T01ep08
+https://content.jwplatform.com/videos/LBkJ5nrD-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/2W3rB6W" group-title="Watchmen" ,Watchmen T01ep09
+
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP01
+https://content.jwplatform.com/videos/HuJ3XRGZ-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP02
+https://content.jwplatform.com/videos/P4EHmtZc-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP03
+https://content.jwplatform.com/videos/Ju8coolk-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP04
+https://content.jwplatform.com/videos/laxYBLG6-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP05
+https://content.jwplatform.com/videos/4kM1abfL-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP06
+https://content.jwplatform.com/videos/eFvJK0h6-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP07
+https://content.jwplatform.com/videos/GFLE1ktf-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP08
+https://content.jwplatform.com/videos/hHmHQDSr-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP09
+https://content.jwplatform.com/videos/KmuBHb9U-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP10
+https://content.jwplatform.com/videos/02VjtYor-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP11
+https://content.jwplatform.com/videos/JwyfKBrG-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP12
+https://content.jwplatform.com/videos/3QRY0sLo-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP13
+https://content.jwplatform.com/videos/2SAADT01-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP14
+https://content.jwplatform.com/videos/6iHA7vae-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP15
+https://content.jwplatform.com/videos/GH61uaiX-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP16
+https://content.jwplatform.com/videos/fzymj7rp-q6DicNGI.mp4
+EXTINF:-1 type="video"-logo="https://bit.ly/3oFjedT" group-title="Super Maquina" ,Super Maquina TP01EP17
+https://content.jwplatform.com/videos/aSL6fCkM-q6DicNGI.mp4
 
 #EXTINF:-1 type="video"-logo="https://bit.ly/3pxeqbO" group-title="Terra Nova " ,Terra Nova TP1 EP01 EP02
 https://content.jwplatform.com/videos/haxYxoZM-EiPiTsLT.mp4
@@ -1820,3 +2003,4 @@ https://content.jwplatform.com/videos/V34I4Ye9-jPbZ9rIU.mp4
 https://content.jwplatform.com/videos/1wJkknIW-jPbZ9rIU.mp4
 #EXTINF:-1 type="video"-logo="https://bit.ly/322czS9" group-title="O Mundo Perdido" ,O Mundo Perdido TP01e22
 https://content.jwplatform.com/videos/LxNWAeMR-jPbZ9rIU.mp4
+
