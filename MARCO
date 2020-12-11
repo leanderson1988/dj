@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Os Novos Mutantes 2020
+https://content.jwplatform.com/videos/8aSNxmGD-q6DicNGI.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Oro A Cidade Perdida 2017
+https://content.jwplatform.com/videos/81bRZ9AT-q6DicNGI.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,A Verdadeira Historia De Ned Kelly 2020
+https://content.jwplatform.com/videos/VOZ25B1H-g3YmY7OO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Artemis Fowl O Mundo Secreto 2020
+https://content.jwplatform.com/videos/pz2Xf4vK-g3YmY7OO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Uma Invenção De Natal 2020
+https://content.jwplatform.com/videos/Keo6KWIz-g3YmY7OO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Grande Ivan 2020
 https://content.jwplatform.com/videos/ShrAd3v2-jDCzjE5N.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Rogue City 2020
@@ -131,7 +141,7 @@ https://content.jwplatform.com/videos/65jdK06s-RWNAGREF.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Sonic 2020
 https://content.jwplatform.com/videos/qzV6YSPl-GOJLNWjk.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Dragon Quest Sua História 2020
-https://content.jwplatform.com/videos/3PQz8rNf-ABgby8qa.mp4
+https://content.jwplatform.com/videos/cBIlVODj-ABgby8qa.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,A Dama EO Vagabundo 2020
 https://content.jwplatform.com/videos/WnnLfHgL-2TdoDbn0.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Togo 2019
@@ -1791,6 +1801,12 @@ https://content.jwplatform.com/videos/BBkfkNxd-Ur8QqysD.mp4
 https://content.jwplatform.com/videos/cGE95xUz-Ur8QqysD.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Brinquedo Assassino 3 1991
 https://content.jwplatform.com/videos/9cYZ1lNL-Ur8QqysD.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Noiva De Chucky 1998
+https://content.jwplatform.com/videos/IyTPI3WE-5tdF2dfr.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Maldição De Chucky 2013
+https://content.jwplatform.com/videos/p8nsESKr-q6DicNGI.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,O Culto De Chucky 2017
+https://content.jwplatform.com/videos/tjaXtqel-q6DicNGI.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Alligator 1 1980
 https://content.jwplatform.com/videos/In8m9Auq-Ur8QqysD.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Alligator 2 1991
@@ -1821,7 +1837,7 @@ https://content.jwplatform.com/videos/7ZYxypCg-2wXnJILV.mp4
 https://content.jwplatform.com/videos/XzNaez5w-2wXnJILV.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Premonição 4 2009
 https://content.jwplatform.com/videos/KGGZc2Ys-2wXnJILV.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Premonição 5  2011
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Premonição 5 2011
 https://content.jwplatform.com/videos/F4fTxPAn-QUlYAaNZ.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Pânico na Floresta 1 2003
 https://content.jwplatform.com/videos/Q48KNxvq-QUlYAaNZ.mp4
@@ -2525,10 +2541,12 @@ https://content.jwplatform.com/videos/p6hYApC4-8xleGx2D.mp4
 https://content.jwplatform.com/videos/IDRfEcuZ-8xleGx2D.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,O Jovem Mestre Do Kung Fu 1980
 https://content.jwplatform.com/videos/m2L90WQ6-8xleGx2D.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,O Grande Mestre 2 2012
-https://content.jwplatform.com/videos/UC6EYRfk-8xleGx2D.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,O Grande Mestre 1 2008
 https://content.jwplatform.com/videos/x3NGdYxW-8xleGx2D.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,O Grande Mestre 2 2012
+https://content.jwplatform.com/videos/UC6EYRfk-8xleGx2D.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,O Grande Mestre 3 2016
+https://content.jwplatform.com/videos/V4vi3mL1-5tdF2dfr.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,O Dragão Chinês 1972
 https://content.jwplatform.com/videos/B5Jg0Uo3-8xleGx2D.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,Fireball 2009
@@ -2551,6 +2569,14 @@ https://content.jwplatform.com/videos/wEDyFobY-bacgYk0M.mp4
 https://content.jwplatform.com/videos/5nIN25HA-bacgYk0M.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,Rocky 6 2006
 https://content.jwplatform.com/videos/DyC1enVk-bacgYk0M.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,Karate Kid 1 1984
+https://content.jwplatform.com/videos/tCWlMSaU-xljqIFJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,Karatê Kid 2 1986
+https://content.jwplatform.com/videos/weH3pru8-xljqIFJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,Karatê Kid 3 1989
+https://content.jwplatform.com/videos/0cC9PWNm-5tdF2dfr.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,Karate Kid 2010
+https://content.jwplatform.com/videos/hsR2QXVI-xljqIFJg.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,Ajuste De Contas 2013
 https://content.jwplatform.com/videos/t8JVQcfv-bacgYk0M.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LUTA" ,Retroceder Nunca Render Se Jamais 1 1986
@@ -2609,6 +2635,8 @@ https://content.jwplatform.com/videos/UJIIxzI5-wiYi4aRp.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hlf7XoAspl8/U7Bw1CVCHXI/AAAAAAAADd4/Opa0JkAMPh8/s1600/garantia.jpg" group-title="Van Damme",Garantia De Morte 1990
 https://content.jwplatform.com/videos/bqaWXVPz-MRd0W8Lh.mp4
 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="drama e romance" ,Nosso Amor 2020
+https://content.jwplatform.com/videos/KB6GIVZy-q6DicNGI.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="drama e romance" ,O Diario De Bridget Jones 2001
 https://content.jwplatform.com/videos/bao65jC1-jG69wtrL.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="drama e romance" ,Bridget Jones No Limite Da Razao 2004
@@ -2709,6 +2737,72 @@ https://content.jwplatform.com/videos/9IAiBCiu-zSAQjdt3.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Barraca Do Beijo 2018
 https://content.jwplatform.com/videos/8YMkVQdS-NwnrkkSt.mp4
 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Devil May Cry
+https://content.jwplatform.com/videos/e8IDTSCx-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Art Of Fighter O Filme 1993
+https://content.jwplatform.com/videos/kW1hmShl-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Kubo E As Cordas Mágicas 2017
+https://content.jwplatform.com/videos/sY0VStbl-xljqIFJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Moana 2017
+https://content.jwplatform.com/videos/n1lTM0hb-xljqIFJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,O Reino Gelado 1 2012
+https://content.jwplatform.com/videos/VSssnRVK-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,O Reino Gelado 2 2016
+https://content.jwplatform.com/videos/8amwom0T-haVWzqYQ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,O Reino Gelado 3 2017
+https://content.jwplatform.com/videos/rzVUVz6d-xljqIFJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Os Smurfs 1 2011
+https://content.jwplatform.com/videos/fKlUdlFI-xljqIFJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Os Smurfs 2 2013
+https://content.jwplatform.com/videos/deR5RBGX-xljqIFJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Os Smurfs 3 2017
+https://content.jwplatform.com/videos/vXEEmgbi-xljqIFJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Kingsglaive Final Fantasy Xv 2016
+https://content.jwplatform.com/videos/qNpSQi7e-xljqIFJg.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Fatal Fury 1 1992
+https://content.jwplatform.com/videos/fzjdwItO-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Fatal Fury 2 1993
+https://content.jwplatform.com/videos/U0xbWkSH-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Fatal Fury 3 1994
+https://content.jwplatform.com/videos/gtd9LOWj-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Street Fighter 2 O Filme 1996
+https://content.jwplatform.com/videos/AQukNTAB-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Samurai X Filme 1997
+https://content.jwplatform.com/videos/KaMoZfra-haVWzqYQ.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,The King Of Fighters
+https://content.jwplatform.com/videos/iJowquqN-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Mulher Maravilha 2019
+https://content.jwplatform.com/videos/KRz8sRUF-QZ4M1d3x.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Mulher Maravilha 2009
+https://content.jwplatform.com/videos/46atClYT-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justiça Vs Jovens Titãs 2016
+https://content.jwplatform.com/videos/B3OslnNA-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justiça Crise Em Duas Terras 2010
+https://content.jwplatform.com/videos/tRNsaXnV-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justiça A Legião Do Mal 2012
+https://content.jwplatform.com/videos/kjIxLLE8-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justiça Sombria 2017
+https://content.jwplatform.com/videos/t4ARbdEw-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justiça Guerra 2014
+https://content.jwplatform.com/videos/16CBzsVb-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justiça A Nova Fronteira 2008
+https://content.jwplatform.com/videos/meo2VnKl-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justica Deuses E Monstros 2015
+https://content.jwplatform.com/videos/OqfJFS3t-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justiça Trono De Atlântida 2015
+https://content.jwplatform.com/videos/od2i0SGM-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justiça Armadilha Do Tempo 2014
+https://content.jwplatform.com/videos/HysZL0vx-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Lanterna Verde Primeiro Voo 2009
+https://content.jwplatform.com/videos/nAE6mnEG-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Laterna Verde Cavaleiros Esmeralda 2011
+https://content.jwplatform.com/videos/IFct6Iet-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Liga Da Justiça Ponto De Ignição 2013
+https://content.jwplatform.com/videos/3XqLodgl-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Jovens Titãs O Contrato De Judas 2017
+https://content.jwplatform.com/videos/74Nxwfvt-nqYyIEVP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Esquadrao Suicida Acerto De Contas 2018
+https://content.jwplatform.com/videos/nxjx7E6r-nqYyIEVP.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Batman O Cavaleiro De Gotham 2008
 https://content.jwplatform.com/videos/Z7B818fn-Ur8QqysD.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Batman Assalto Em Arkham 2014
@@ -2871,6 +2965,8 @@ https://content.jwplatform.com/videos/twnOX7sZ-5TSzydBj.mp4
 https://content.jwplatform.com/videos/xy9TcgTu-5TSzydBj.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Meu Malvado Favorito 1 2010
 https://content.jwplatform.com/videos/ElqEszqw-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Meu Malvado Favorito 2 2013
+https://content.jwplatform.com/videos/2z3MlfKD-9KXv6jyv.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,A Era do Gelo 1 2002
 https://content.jwplatform.com/videos/vyBQZl5E-nIPYi4xr.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,A Era do Gelo 2 2006
@@ -2905,8 +3001,6 @@ https://content.jwplatform.com/videos/Jjx1ILKT-9KXv6jyv.mp4
 https://content.jwplatform.com/videos/j4khtwNk-9KXv6jyv.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,O Príncipe Do Egito 1998
 https://content.jwplatform.com/videos/sEbYthLV-9KXv6jyv.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Meu Malvado Favorito 2 2013
-https://content.jwplatform.com/videos/2z3MlfKD-9KXv6jyv.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Nem Que A Vaca Tussa 2004
 https://content.jwplatform.com/videos/4pgt9qNm-9KXv6jyv.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Gato de botas 2011
@@ -2925,6 +3019,8 @@ https://content.jwplatform.com/videos/aSI50qO2-M33kuJwh.mp4
 https://content.jwplatform.com/videos/Gig5eDFg-YoIU0Miv.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Minions 2015
 https://content.jwplatform.com/videos/OIijLqw6-M33kuJwh.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Minusculos 1 2013
+https://content.jwplatform.com/videos/SM6z4QBB-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Minúsculos 2 2019
 https://content.jwplatform.com/videos/POjmZnIp-RWNAGREF.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Appleseed Alpha 2014
@@ -2937,24 +3033,20 @@ https://content.jwplatform.com/videos/JXuvqsz6-wCcMmeZI.mp4
 https://content.jwplatform.com/videos/BM3USDty-OdvWsWg9.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Amigos Alienígena 2019
 https://content.jwplatform.com/videos/O6aaJ80k-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,03 Tinker Bell
-https://content.jwplatform.com/videos/N9Xjndrc-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Como Treinar O Seu Dragão 3 2019
 https://content.jwplatform.com/videos/Pkyeaidp-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,A Lenda Da Passagem Secreta 2019
 https://content.jwplatform.com/videos/Kq89opn4-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,06 Tinker Bell
-https://content.jwplatform.com/videos/T1O6uVol-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Kung Fu Panda 2 2011
-https://content.jwplatform.com/videos/PJsvbHjn-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Leo Da Vinci Missão Mona Lisa 2018
 https://content.jwplatform.com/videos/X53ibm6j-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,02 Tinker Bell
-https://content.jwplatform.com/videos/IdX5OUBC-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Khumba 2014
 https://content.jwplatform.com/videos/FEmfVDaX-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Kung Fu Panda 1 2008
 https://content.jwplatform.com/videos/G4exmu0X-18Q3BZDO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Kung Fu Panda 2 2011
+https://content.jwplatform.com/videos/PJsvbHjn-18Q3BZDO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Kung Fu Panda 3 2016
+https://content.jwplatform.com/videos/WxlrsaQl-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,A Bela E A Fera 1991
 https://content.jwplatform.com/videos/tJuhECLb-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Ralph Quebrando A Internet 2019
@@ -2969,24 +3061,26 @@ https://content.jwplatform.com/videos/Aa2Boscf-OdvWsWg9.mp4
 https://content.jwplatform.com/videos/ceI9SrDq-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Capitao Sharky O Pequeno Pirata 2018
 https://content.jwplatform.com/videos/PPGKxCQW-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Kung Fu Panda 3 2016
-https://content.jwplatform.com/videos/WxlrsaQl-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Cinderela E O Príncipe Secreto 2019
 https://content.jwplatform.com/videos/G4LzWCa5-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Minusculos O Vale Das Formigas 2013
-https://content.jwplatform.com/videos/SM6z4QBB-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Lino Uma Aventura De Sete Vidas 2018
 https://content.jwplatform.com/videos/KrdfAl6Q-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Zootopia 2016
 https://content.jwplatform.com/videos/H9AKhqoh-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,01 Tinker Bell
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Tinker Bell 1
 https://content.jwplatform.com/videos/Wm42wJqf-18Q3BZDO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Tinker Bell 2
+https://content.jwplatform.com/videos/IdX5OUBC-18Q3BZDO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Tinker Bell 3
+https://content.jwplatform.com/videos/N9Xjndrc-18Q3BZDO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Tinker Bell 4
+https://content.jwplatform.com/videos/RzwUTvlY-18Q3BZDO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Tinker Bell 5
+https://content.jwplatform.com/videos/jKctU6Qv-18Q3BZDO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Tinker Bell 6
+https://content.jwplatform.com/videos/T1O6uVol-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,O Touro Ferdinando 2018
 https://content.jwplatform.com/videos/8Ac3BTTp-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,04 Tinker Bell
-https://content.jwplatform.com/videos/RzwUTvlY-18Q3BZDO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,05 Tinker Bell
-https://content.jwplatform.com/videos/jKctU6Qv-18Q3BZDO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,O Cao E A Raposa 1981
 https://content.jwplatform.com/videos/P3OnBGNO-OdvWsWg9.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Putz A Coisa Ta Feia 2006
@@ -3031,11 +3125,11 @@ https://content.jwplatform.com/videos/Adx0OvTR-nIPYi4xr.mp4
 https://content.jwplatform.com/videos/pmVFeePo-jREkos59.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Rango 2011
 https://content.jwplatform.com/videos/kGpTjOdB-nIPYi4xr.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Scooby-doo E A Escola Mal Assombrada 1988
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Scooby doo E A Escola Mal Assombrada 1988
 https://content.jwplatform.com/videos/Ue1G3mdD-C9tEYeUR.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Scooby-doo E O Fantasma Gourmet 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Scooby doo E O Fantasma Gourmet 2018
 https://content.jwplatform.com/videos/kuVAVVXB-nIPYi4xr.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Scooby-doo E Batman Os Bravos E Destemidos 2018
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Scooby doo E Batman Os Bravos E Destemidos 2018
 https://content.jwplatform.com/videos/lGb07sfW-nIPYi4xr.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DESENHO" ,Reino Escondido 2013
 https://content.jwplatform.com/videos/nK5Cqzdl-nIPYi4xr.mp4
