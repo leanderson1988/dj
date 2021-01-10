@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Tenet 2020
+https://content.jwplatform.com/videos/GZMXOscI-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,The Tax Collector 2020
+https://content.jwplatform.com/videos/7G2GeYQ9-IOzF5le7.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Submissao 2019
+https://content.jwplatform.com/videos/6ySfryml-IOzF5le7.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Abra Suas Asas 2020
+https://content.jwplatform.com/videos/jbdQgqgJ-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Safety 2020
+https://content.jwplatform.com/videos/ZQviRElz-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Vombate Ao Combate 2020
+https://content.jwplatform.com/videos/pqbi5pjR-IOzF5le7.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Lego Star Wars Especial De Festas 2020
+https://content.jwplatform.com/videos/7oH7qSom-IOzF5le7.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Era Uma Vez Um Boneco De Neve 2020
+https://content.jwplatform.com/videos/vb3KnloA-IOzF5le7.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Os Novos Mutantes 2020
 https://content.jwplatform.com/videos/8aSNxmGD-q6DicNGI.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Oro A Cidade Perdida 2017
@@ -1795,6 +1811,28 @@ https://content.jwplatform.com/videos/f902Izpl-2TdoDbn0.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="GOSPEL" ,Uma Vida Com Proposta 2017
 https://content.jwplatform.com/videos/NlCnxBGP-zJfxYVCz.mp4
 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Coisa 1985
+https://content.jwplatform.com/videos/5gbqtIKu-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Halloween A Lenda De Jack 2018
+https://content.jwplatform.com/videos/6u2ccK1y-IOzF5le7.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Halloween 2019
+https://content.jwplatform.com/videos/cb8L9Wwn-IOzF5le7.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Colinas De Sangue 2019
+https://content.jwplatform.com/videos/YyRgp3QO-IOzF5le7.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Horror Em Amityville 2005
+https://content.jwplatform.com/videos/7RMQxS22-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,O Filho De Chucky 2004
+https://content.jwplatform.com/videos/8dnBkrfQ-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Tubarao 2 1978
+https://content.jwplatform.com/videos/LQ7Vd24p-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Tubarao 3 1983
+https://content.jwplatform.com/videos/XHSCfni1-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Tubarao 4 1987
+https://content.jwplatform.com/videos/SZznhrJv-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Poltergeist O Fenômeno 2015
+https://content.jwplatform.com/videos/HIOGCyQT-E2vY9Ubx.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,A Casa Do Medo 2019
+https://content.jwplatform.com/videos/tL1PEyG3-IOzF5le7.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Brinquedo Assassino 1 1988
 https://content.jwplatform.com/videos/BBkfkNxd-Ur8QqysD.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="TERROR" ,Brinquedo Assassino 2 1990
