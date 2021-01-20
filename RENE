@@ -150,7 +150,6 @@ https://content.jwplatform.com/videos/DqnHIi3m-NwnrkkSt.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Pacto 2018
 https://content.jwplatform.com/videos/H0De5cB6-s8dD2pdu.mp4
 
-
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Chamado Da Floresta 2020
 https://content.jwplatform.com/videos/gq5z2OYk-hK28dEPb.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Doutor Doliro 2020
@@ -324,23 +323,14 @@ https://content.jwplatform.com/videos/TPuG0uGd-2TdoDbn0.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Quebra Nozes E Os Quatro Reinos 2018
 https://content.jwplatform.com/videos/EjMzY34B-bacgYk0M.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 1 2008
-
 https://content.jwplatform.com/videos/KnIteJsi-BvF3GI2K.mp4
-
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 2 Lua Nova  2009
-
 https://content.jwplatform.com/videos/ksvlGpEj-BvF3GI2K.mp4
-
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 3 Eclipse  2010
-
 https://content.jwplatform.com/videos/MpxOFyDe-BvF3GI2K.mp4
-
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 4 Amanhecer PT.1 2011
-
 https://content.jwplatform.com/videos/PuaZAywT-BvF3GI2K.mp4
-
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,Crepusculo 5 Amanhecer PT.2 2012
-
 https://content.jwplatform.com/videos/t5DB2JVf-BvF3GI2K.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,piratas do caribe 1 2003
 https://content.jwplatform.com/videos/jkH5qipm-bacgYk0M.mp4
@@ -769,6 +759,8 @@ https://content.jwplatform.com/videos/Nxob9NfL-8IUV9bjs.mp4
 https://content.jwplatform.com/videos/xA5h2saw-8IUV9bjs.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="MARVEL" ,Capita Marvel 2018
 https://content.jwplatform.com/videos/3QfaB1k5-9KXv6jyv.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="MARVEL" ,Capita Marvel 2018
+https://content.jwplatform.com/videos/3QfaB1k5-xosTtpcC.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="MARVEL" ,Homem Aranha De Volta Ao Lar 2017
 https://content.jwplatform.com/videos/nCiCgXs4-NfA09Gih.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="MARVEL" ,Homem Aranha Longe De Casa 2019
