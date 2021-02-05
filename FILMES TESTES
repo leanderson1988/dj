@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Mulher Maravilha 1984 2021
+https://content.jwplatform.com/videos/wFu38ZMN-F3o6hEvP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Jiu Jitsu 2020
+https://content.jwplatform.com/videos/0duZ2e8d-F3o6hEvP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Terra Dos Bravos 2019
+https://content.jwplatform.com/videos/QOxnSKZa-F3o6hEvP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Justiça Brutal 2021
+https://content.jwplatform.com/videos/WkY2odnu-F3o6hEvP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Posto De Combate 2020
+https://content.jwplatform.com/videos/ryMwNg9Q-F3o6hEvP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Caçador De Recompensas 2020
+https://content.jwplatform.com/videos/ufgVSWdl-F3o6hEvP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Billy The Kid O Fora Da Lei 2019
+https://content.jwplatform.com/videos/02ztBgP2-mZ0sNlzq.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Apanhador De Pesadelos 2020
+https://content.jwplatform.com/videos/BUoccFLG-mZ0sNlzq.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Em Busca De Ohana 2021
+https://content.jwplatform.com/videos/PiLm99ru-F3o6hEvP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Horror Entre Nos 2019
+https://content.jwplatform.com/videos/yPZ7nu4H-mZ0sNlzq.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Sombras Do Terror 2019
+https://content.jwplatform.com/videos/QZoJjU5i-mZ0sNlzq.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Zona De Combate 2021
 https://content.jwplatform.com/videos/yDmaQdCT-mk24FxaO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Ceu Em Chamas Skyfire 2019
@@ -181,7 +203,6 @@ https://content.jwplatform.com/videos/cIo8TJ3r-zSAQjdt3.mp4
 https://content.jwplatform.com/videos/DqnHIi3m-NwnrkkSt.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Pacto 2018
 https://content.jwplatform.com/videos/H0De5cB6-s8dD2pdu.mp4
-
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Chamado Da Floresta 2020
 https://content.jwplatform.com/videos/gq5z2OYk-hK28dEPb.mp4
