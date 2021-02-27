@@ -1,9 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Mulher Maravilha 1984 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/2MlUKcc" group-title="LANCAMENTOS" ,Nova Ordem Espacial 2021
+https://content.jwplatform.com/videos/nt2jieyc-su2i4fvY.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3dITWcI" group-title="LANCAMENTOS" ,O 3º Andar Terror Na Rua Malasaña 2021
+https://content.jwplatform.com/videos/wPD5oRX5-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/37JCW2n" group-title="LANCAMENTOS" ,Cidade Sob Ameaça 2021
+https://content.jwplatform.com/videos/FnYrL4if-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3pWqvWV" group-title="LANCAMENTOS" ,Flora E Ulysses 2021
+https://content.jwplatform.com/videos/3kVHs2kJ-su2i4fvY.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Super Urso Um Resgate Na Cidade Grande 2021
+https://content.jwplatform.com/videos/DbiLOrwd-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3rJGzgl" group-title="LANCAMENTOS" ,Mulher Maravilha 1984 2021
 https://content.jwplatform.com/videos/wFu38ZMN-F3o6hEvP.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Jiu Jitsu 2020
+#EXTINF:-1 tvg-logo="https://bit.ly/3cWzzbC" group-title="LANCAMENTOS" ,Jiu Jitsu 2020
 https://content.jwplatform.com/videos/0duZ2e8d-F3o6hEvP.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Terra Dos Bravos 2019
+#EXTINF:-1 tvg-logo="https://bit.ly/36WbFJG" group-title="LANCAMENTOS" ,Terra Dos Bravos 2019
 https://content.jwplatform.com/videos/QOxnSKZa-F3o6hEvP.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Justiça Brutal 2021
 https://content.jwplatform.com/videos/WkY2odnu-F3o6hEvP.mp4
@@ -21,7 +31,7 @@ https://content.jwplatform.com/videos/PiLm99ru-F3o6hEvP.mp4
 https://content.jwplatform.com/videos/yPZ7nu4H-mZ0sNlzq.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Sombras Do Terror 2019
 https://content.jwplatform.com/videos/QZoJjU5i-mZ0sNlzq.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Zona De Combate 2021
+#EXTINF:-1 tvg-logo="https://bit.ly/2OnFkF7" group-title="LANCAMENTOS" ,Zona De Combate 2021
 https://content.jwplatform.com/videos/yDmaQdCT-mk24FxaO.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,Ceu Em Chamas Skyfire 2019
 https://content.jwplatform.com/videos/xU3PP9Vc-mk24FxaO.mp4
@@ -203,7 +213,6 @@ https://content.jwplatform.com/videos/cIo8TJ3r-zSAQjdt3.mp4
 https://content.jwplatform.com/videos/DqnHIi3m-NwnrkkSt.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="LANCAMENTOS" ,O Pacto 2018
 https://content.jwplatform.com/videos/H0De5cB6-s8dD2pdu.mp4
-
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="AVENTURA" ,O Chamado Da Floresta 2020
 https://content.jwplatform.com/videos/gq5z2OYk-hK28dEPb.mp4
@@ -569,10 +578,64 @@ https://content.jwplatform.com/videos/E9SHCEIG-0HOcX8n1.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Mazzaropi" ,Em Jecão Um Fofoqueiro No Céu 1977
 https://content.jwplatform.com/videos/h6BrOzMO-0HOcX8n1.mp4
 
+##EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Ted 1 2012
+https://content.jwplatform.com/videos/nvdfLwLi-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Ted 2 2015
+https://content.jwplatform.com/videos/ilVsOpsI-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Zohan O Agente Bom De Corte 2008
+https://content.jwplatform.com/videos/qxPqSfBh-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Um Convite De Divorcio 2015
+https://content.jwplatform.com/videos/r0COPt8w-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,O Dono Da Festa 1 2001
+https://content.jwplatform.com/videos/DeoMaMTS-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,O Dono Da Festa 2 2006
+https://content.jwplatform.com/videos/52KeDWLV-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,O Dono Da Festa 3 2009
+https://content.jwplatform.com/videos/OCvhkEuD-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Tio Drew 2018
+https://content.jwplatform.com/videos/DgHLqQlX-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Santo Time 2018
+https://content.jwplatform.com/videos/OxUQ3X6l-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Voando Alto 2016
+https://content.jwplatform.com/videos/gZ48rZEt-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Tenacious D Uma Dupla Infernal 2006
+https://content.jwplatform.com/videos/Sr7qodHD-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Tratamento De Choque 2003
+https://content.jwplatform.com/videos/XDbVmlP4-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Super Escola De Heróis 2005
+https://content.jwplatform.com/videos/oDh047gl-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Super Velozes Mega Furiosos 2015
+https://content.jwplatform.com/videos/IZtwOEz2-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Uma Agente Muito Louca 2017
+https://content.jwplatform.com/videos/1Ba8iyIs-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Os Brutamontes 1 2011
+https://content.jwplatform.com/videos/C4aGm18Y-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Os Brutamontes 2 2017
+https://content.jwplatform.com/videos/1kgK4Jht-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Se Beber Não Case 1 2009
+https://content.jwplatform.com/videos/yB6XmarN-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Se Beber Não Case 2 2011
+https://content.jwplatform.com/videos/1qlvrntS-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Se Beber Não Case 3 2013
+https://content.jwplatform.com/videos/iLWeV1Xi-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Um Salão Do Barulho 2 2004
+https://content.jwplatform.com/videos/qyJUhbwA-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Os Três Patetas 2012
+https://content.jwplatform.com/videos/WwtxXdts-su2i4fvY.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Sexta Feira Em Apuros 1 1995
+https://content.jwplatform.com/videos/Vo7dT9dS-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Sexta Feira Em Apuros 2 2000
+https://content.jwplatform.com/videos/Dc5SJ3Tg-Uv2vgpWy.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Uma Casa De Pernas Pro Ar 2007
+https://content.jwplatform.com/videos/9anFPks4-su2i4fvY.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Te Pego Na Saída 2017
+https://content.jwplatform.com/videos/N6XBpYWU-QOmQDbYo.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Os Irmaos Cara De Pau 1998
+https://content.jwplatform.com/videos/z5reMrPr-su2i4fvY.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Os Irmãos Cara De Pau 2000 1998
+https://content.jwplatform.com/videos/zax2ggVW-QOmQDbYo.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Férias Do Barulho 1985
 https://content.jwplatform.com/videos/y5JP9lzX-mk24FxaO.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Um Herói de Brinquedo 1996
-https://content.jwplatform.com/videos/tf497nfu-QUlYAaNZ.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Ace Ventura 1 1994
 https://content.jwplatform.com/videos/htZRM9uH-QUlYAaNZ.mp4
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="COMEDIA" ,Ace Ventura 2 1995
